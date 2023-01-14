@@ -2,10 +2,58 @@ html {
   background: #2f2e33;
 }
 
+.h-boundingbox {
+  max-width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 24px;
+}
+
+.body {
+  padding-top: 64px !important;
+  padding-bottom: 64px !important;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+nav {
+  display: flex;
+  padding: 12px 0;
+}
+
+.button {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 300;
+  color: white;
+  border: 1px solid white;
+  display: inline-block;
+  padding: 8px 16px;
+  margin: 24px 0;
+  vertical-align: middle;
+  overflow: hidden;
+  text-decoration: none;
+  background-color: transparent;
+  text-align: center;
+  cursor: pointer;
+  white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  transition: background-color 400ms cubic-bezier(.455,.03,.515,.955);
+}
+
+.button--nav {
+  margin: auto;
+}
+
+.button:hover {
+  color: black;
+  background-color: white;
+}
+
 .scatterplot {
   width: 100%;
   height: 600px;
-  /* border: 1px solid red; */
 }
 
 .axis text {
@@ -39,7 +87,6 @@ html {
 }
 
 .smallMultipleWrapper {
-  margin: 0 -15px;
 	flex-wrap: wrap;
 	display: flex;
 }
@@ -55,6 +102,7 @@ html {
   font-family: 'Roboto', sans-serif;
   font-size: 0.8rem;
   fill: white;
+  color: white;
   text-transform: uppercase;
   letter-spacing: 2px;
 }

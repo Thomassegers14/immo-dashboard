@@ -17,24 +17,34 @@
 
 <body>
   <nav>
-    <button type="button" onclick="toggleMap()">toggleMap</button>
+    <button class="button button--nav" type="button" onclick="toggleMap()">toggleMap</button>
   </nav>
+
   <div class="map"></div>
-  <div class="scatterplot">
-    <div class="smallMultiple__tooltip"></div>
+
+  <div class="h-boundingbox">
+    <div class="body">
+      <div class="content">
+        <p class="smallMultiple__title">All real estate</p>
+        <div class="scatterplot">
+          <div class="smallMultiple__tooltip"></div>
+        </div>
+        <div class="smallMultipleWrapper">
+          <div class="smallMultiple" data-level="Herentals"></div>
+          <div class="smallMultiple" data-level="Grobbendonk"></div>
+          <div class="smallMultiple" data-level="Olen"></div>
+          <div class="smallMultiple" data-level="Lichtaart"></div>
+        </div>
+        <div class="smallMultipleWrapper">
+          <div class="smallMultiple" data-level="Lille"></div>
+          <div class="smallMultiple" data-level="Herenthout"></div>
+          <div class="smallMultiple" data-level="Zandhoven"></div>
+          <div class="smallMultiple" data-level="Vorselaar"></div>
+        </div>
+      </div>
+    </div>
   </div>
-  <div class="smallMultipleWrapper">
-    <div class="smallMultiple" data-level="Herentals"></div>
-    <div class="smallMultiple" data-level="Grobbendonk"></div>
-    <div class="smallMultiple" data-level="Olen"></div>
-    <div class="smallMultiple" data-level="Lichtaart"></div>
-  </div>
-  <div class="smallMultipleWrapper">
-    <div class="smallMultiple" data-level="Lille"></div>
-    <div class="smallMultiple" data-level="Herenthout"></div>
-    <div class="smallMultiple" data-level="Zandhoven"></div>
-    <div class="smallMultiple" data-level="Vorselaar"></div>
-  </div>
+
 </body>
 
 </html>

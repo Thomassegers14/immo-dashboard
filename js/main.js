@@ -50,9 +50,9 @@ function makeScatterplot(data) {
 
   const margins = {
     top: 48,
-    right: 48,
+    right: 24,
     bottom: 48,
-    left: 80
+    left: 42
   }
 
   // Set inner dimensions
@@ -97,6 +97,7 @@ function makeScatterplot(data) {
       d3.axisLeft(y)
       .tickSize(-innerWidth)
       .tickPadding(12)
+      .tickFormat(d3.format(".0s"))
     );
 
   svg.append('text')

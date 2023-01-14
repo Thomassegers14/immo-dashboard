@@ -1,0 +1,990 @@
+"","id","type","price","netHabitableSurface","landSurface","bedrooms","gemeente","postalCode","street","number","lat","lon","url","category"
+"1",2245941,"HOUSE",179000,150,196,3,"Bornem","2880","Weertstraat","61",4.1994538656518,51.065333759005,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2245941",NA
+"2",2241412,"HOUSE",395000,170,847,2,"Bornem","2880","Kraeyhoevelaan","8",4.2089123400768,51.073250239822,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2241412","new"
+"3",2235599,"HOUSE",196000,112,106.57225268906,4,"Bornem","2880","Barelstraat","8",4.2328432083746,51.095568224466,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2235599",NA
+"4",2373250,"HOUSE",452700,120,1020.7454773704,3,"Puurs-Sint-Amands","2890","Provincialeweg","93",4.2612510993907,51.045250239588,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2373250",NA
+"5",2240322,"HOUSE",325000,183,157,2,"Bornem","2880","Karel suykensstraat","73",4.2996487261061,51.096881895069,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2240322",NA
+"6",1869927,"HOUSE",339000,160,300,3,"Antwerpen","2040","Monnikenhofstraat","73",4.31847525353,51.345326029126,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1869927",NA
+"7",2108783,"HOUSE",229000,71,50,2,"Niel","2845","Oud begijnhof","3",4.3256633001635,51.107273853315,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2108783",NA
+"8",6143452,"HOUSE",429775.97,NA,368,3,"Puurs-Sint-Amands","2870","Hospiceveld","3",4.3257652457814,51.082375771421,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6143452",NA
+"9",2213608,"HOUSE",749000,440,1133,5,"Zwijndrecht","2070","Statiestraat","58",4.3283595591325,51.216810882401,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2213608",NA
+"10",2210225,"HOUSE",299000,293,1105,4,"Zwijndrecht","2070","Kruibeeksesteenweg","10",4.3296871913813,51.197800832073,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2210225",NA
+"11",2105859,"HOUSE",298000,279,137.67695174632,3,"Niel","2845","Antwerpsestraat","57",4.3298880503752,51.108616465643,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2105859",NA
+"12",2049332,"HOUSE",285000,150,258,3,"Hemiksem","2620","Kruishoevewijk","19",4.3340224764324,51.133366005671,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2049332",NA
+"13",2107679,"HOUSE",368000,181,238.88175104689,3,"Niel","2845","Jozef Wauterslaan","41",4.3341821904704,51.111333653768,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2107679",NA
+"14",2211878,"HOUSE",695000,290,1793,4,"Zwijndrecht","2070","Neerstraat","12",4.3361442537277,51.226969295682,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2211878",NA
+"15",2048169,"HOUSE",159000,90,69,3,"Hemiksem","2620","Heuvelstraat","10",4.337279,51.1406,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2048169",NA
+"16",2206180,"HOUSE",314000,150,366,2,"Zwijndrecht","2070","Boomgaardstraat","42",4.3381642774995,51.203597011377,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2206180",NA
+"17",2129388,"HOUSE",379000,165,200,4,"Schelle","2627","Provinciale steenweg","225",4.3388172001157,51.122838390709,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2129388",NA
+"18",2129630,"HOUSE",315000,130,271,3,"Schelle","2627","Rubensstraat","73",4.3393893256882,51.115125574324,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2129630",NA
+"19",1818788,"HOUSE",219000,186,130,2,"Antwerpen","2660","Kapelstraat","237",4.339601643498,51.173387115428,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1818788",NA
+"20",2047379,"HOUSE",165000,100,237,2,"Hemiksem","2620","D. coppensstraat","9",4.3402378875645,51.144661595051,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2047379",NA
+"21",2047777,"HOUSE",345000,158,223,3,"Hemiksem","2620","Europalaan","10",4.340852729398,51.134467513848,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2047777",NA
+"22",2047473,"HOUSE",339000,130,230,4,"Hemiksem","2620","De bosschaertlei","16",4.3409237164836,51.145979612786,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2047473",NA
+"23",2209588,"HOUSE",215000,160,151,3,"Zwijndrecht","2070","Kerkstraat","91",4.3412042849462,51.200260132667,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2209588",NA
+"24",1984059,"HOUSE",219000,145,99.912773703691,3,"Boom","2850","Noeveren","312",4.344770524736,51.097647184287,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1984059",NA
+"25",1871537,"HOUSE",255000,147,148,3,"Antwerpen","2660","Moretusstraat","41",4.3491839619942,51.174245396876,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1871537",NA
+"26",1735410,"HOUSE",259000,105,140,3,"Antwerpen","2660","Commandant weynsstraat","36",4.3502746663923,51.181961789334,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1735410",NA
+"27",1801269,"HOUSE",399000,188,170,3,"Antwerpen","2660","Ijskelderstraat","38",4.3506304928733,51.180978244592,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1801269",NA
+"28",2383948,"HOUSE",257000,104,102,1,"Willebroek","2830","Appeldonkstraat","264",4.3510864591352,51.071363319325,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2383948",NA
+"29",2384605,"HOUSE",453800,130,405.24675830462,3,"Willebroek","2830","Beekstraat","83",4.3525740824207,51.031495802727,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2384605",NA
+"30",2384431,"HOUSE",422600,133,1328.9790066094,3,"Willebroek","2830","Baeckelmansstraat","56",4.3533728257253,51.035386339159,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2384431",NA
+"31",1882540,"HOUSE",328000,133,0,3,"Antwerpen","2660","Oudestraat","122",4.3539180777606,51.173730452211,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1882540",NA
+"32",2384019,"HOUSE",385000,192,490,5,"Willebroek","2830","Appeldonkstraat","170",4.3543502207485,51.070528996645,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2384019",NA
+"33",2383934,"HOUSE",110000,90,200,2,"Willebroek","2830","Appeldonkstraat","148",4.355031504103,51.070312668014,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2383934",NA
+"34",5193949,"HOUSE",389893.66,NA,364,3,"Willebroek","2830","Veldovenstraat","28",4.356949,51.044972,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5193949",NA
+"35",2392621,"HOUSE",410000,276,260.95700334699,5,"Willebroek","2830","Oud-Strijdersstraat","13",4.3591355033663,51.05963863166,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2392621",NA
+"36",2394630,"HOUSE",445000,231,354,4,"Willebroek","2830","Tisseltsesteenweg 104","127",4.3594309790304,51.04547446729,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2394630",NA
+"37",2394559,"HOUSE",625000,264,115.96677450137,6,"Willebroek","2830","Stationsstraat","34",4.359980431218,51.063547677703,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2394559",NA
+"38",1750764,"HOUSE",375000,172,160,2,"Antwerpen","2660","Distelvinklaan","14",4.3612814412404,51.17100358453,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1750764",NA
+"39",1865535,"HOUSE",399000,180,182,4,"Antwerpen","2660","Meetjeslandstraat","37",4.3615691537058,51.185019121993,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1865535",NA
+"40",1791822,"HOUSE",224000,100,100,2,"Antwerpen","2660","Heidestraat","126",4.3617122520956,51.174065200389,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1791822",NA
+"41",1981453,"HOUSE",385000,267,175,3,"Boom","2850","Jan baptist corremansstraat","102",4.3618279629497,51.090261937951,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1981453","new"
+"42",1878112,"HOUSE",329900,110,45,3,"Antwerpen","2660","Onderwijzersstraat","50",4.3623969591982,51.173073178539,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1878112",NA
+"43",1691625,"HOUSE",359000,162,16,3,"Aartselaar","2630","Peter benoitlaan","11",4.3632983446706,51.111918520608,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1691625",NA
+"44",1688717,"HOUSE",385000,191,210,4,"Aartselaar","2630","Jan blockxlaan","4",4.3654983588243,51.110765347954,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1688717",NA
+"45",1966712,"HOUSE",365000,159,179.49194326205,4,"Antwerpen","2660","Windmolenstraat","154",4.3657124034225,51.176751333218,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1966712",NA
+"46",2392323,"HOUSE",790000,247,127,2,"Willebroek","2830","Oostvaartdijk","39",4.36744713432,51.079875517157,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2392323",NA
+"47",6186055,"HOUSE",321696.82,NA,248,3,"Willebroek","2830","Alida peetersplein","1",4.3674888267582,51.059492783339,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6186055",NA
+"48",2391683,"HOUSE",395000,182,526.0465743253,5,"Willebroek","2830","Molenstraat","25",4.3675712852835,51.056905226221,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2391683",NA
+"49",1978500,"HOUSE",255000,190,128,4,"Boom","2850","Bassinstraat","29",4.3682035064127,51.084737575843,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1978500",NA
+"50",1977312,"HOUSE",259000,123,95,2,"Boom","2850","Advokaatstraat","119",4.3691856056662,51.089370503839,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1977312",NA
+"51",2385103,"HOUSE",469000,198,1018.3721590536,4,"Willebroek","2830","Blaasveldstraat","149",4.3692839287371,51.037987016184,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2385103",NA
+"52",2158549,"HOUSE",449000,170,530,3,"Stabroek","2940","Aalmoezenier cuyperslaan","11",4.3724367905818,51.328998398721,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2158549",NA
+"53",1980540,"HOUSE",309000,262.56,175.29246320606,3,"Boom","2850","Guido gezellestraat","31",4.3724413104269,51.096099509894,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1980540",NA
+"54",2388753,"HOUSE",439000,172,459.73752351292,3,"Willebroek","2830","Heindonksesteenweg","181",4.3732650076185,51.066343957422,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2388753",NA
+"55",2160817,"HOUSE",489000,222.2,240,6,"Stabroek","2940","Familiestraat","43",4.3747130119087,51.333180940303,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2160817",NA
+"56",2393147,"HOUSE",519000,216,280,4,"Willebroek","2830","Perkamentlaan","17",4.3769524592317,51.059323735869,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2393147",NA
+"57",1867706,"HOUSE",359000,130,155,3,"Antwerpen","2610","Michel willemslaan","16",4.3775407807051,51.179588552965,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1867706",NA
+"58",1749178,"HOUSE",335000,163.92,146.33955788612,4,"Antwerpen","2610","Dichtersstraat","40",4.377694609609,51.180904708571,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1749178","new"
+"59",1899097,"HOUSE",299000,150,171,3,"Antwerpen","2610","Rederijkersstraat","48",4.3777630334219,51.180575370944,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1899097",NA
+"60",1985218,"HOUSE",206000,92,64,2,"Boom","2850","Steenbakkerijenstraat","1",4.3781089313076,51.092556451308,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1985218",NA
+"61",1773450,"HOUSE",234900,120,50.718004478607,3,"Antwerpen","2020","Gabriëllastraat","9",4.3788440213935,51.189382602497,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1773450",NA
+"62",1982043,"HOUSE",212000,150,153,2,"Boom","2850","Kerkhofstraat","266",4.379836976154,51.09370393809,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1982043",NA
+"63",2161259,"HOUSE",342000,130,187.53081638506,4,"Stabroek","2940","Grimaldilaan","87",4.3800647622692,51.331591694975,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2161259",NA
+"64",1687496,"HOUSE",449000,167,241,3,"Aartselaar","2630","Guido gezellestraat","124",4.3802102370549,51.137340344446,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1687496",NA
+"65",1808671,"HOUSE",329000,135,160,3,"Antwerpen","2050","Jan van brabantlaan","2",4.3829026315147,51.231367810428,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1808671",NA
+"66",1967563,"HOUSE",249000,115,56,4,"Antwerpen","2020","Wittestraat","141",4.3834551714019,51.186805358004,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1967563",NA
+"67",1702093,"HOUSE",245000,127,69.462951418245,4,"Antwerpen","2020","Atletenstraat","25",4.3838080510043,51.184774932392,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1702093",NA
+"68",1690866,"HOUSE",425000,159,413,3,"Aartselaar","2630","Leugstraat","174",4.3843018461061,51.127305620994,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1690866",NA
+"69",1709472,"HOUSE",259000,135,48.745001867413,3,"Antwerpen","2020","Berendrechtstraat","96",4.3848505190945,51.186178691699,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1709472",NA
+"70",1922058,"HOUSE",299000,142,116,5,"Antwerpen","2020","Speerstraat","18",4.384893886719,51.184929643684,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1922058",NA
+"71",2125535,"HOUSE",475000,166,314.30709921615,4,"Rumst","2840","Sint Jozefstraat","37",4.3849347750271,51.111687856817,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2125535",NA
+"72",1690594,"HOUSE",250000,175,135,4,"Aartselaar","2630","Leon gilliotlaan","32",4.3860570513403,51.131301589527,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1690594",NA
+"73",1842492,"HOUSE",338000,95,205.0096307965,2,"Antwerpen","2020","Landbouwstraat","34",4.3861586191647,51.188560991756,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1842492",NA
+"74",1982300,"HOUSE",265000,159,350.31072180998,3,"Boom","2850","Kerkhofstraat","639",4.386471923113,51.099984793935,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1982300",NA
+"75",1969424,"HOUSE",330000,186,184,4,"Antwerpen","2020","Zandvlietstraat","14",4.3871719052502,51.187123624362,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1969424",NA
+"76",1917585,"HOUSE",475000,224,311.74860980408,4,"Antwerpen","2610","Sint-Jan vianneystraat","8",4.3873782330897,51.16741210322,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1917585",NA
+"77",1808616,"HOUSE",745000,249,152,4,"Antwerpen","2018","Jan van beersstraat","27",4.3903581752679,51.203487433845,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1808616",NA
+"78",1688003,"HOUSE",339000,165,242,3,"Aartselaar","2630","Hendrik consciencelaan","19",4.3914140841169,51.130517707653,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1688003",NA
+"79",1685636,"HOUSE",799500,NA,843,5,"Aartselaar","2630","Arkel","3",4.392266517682,51.142584625761,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1685636",NA
+"80",1813710,"HOUSE",595000,245,186,4,"Antwerpen","2610","Jozef Kenneslei","37",4.3922772557351,51.17365220134,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1813710",NA
+"81",2334559,"HOUSE",390000,186,1100,3,"Mechelen","2801","Steenweg op blaasveld","123",4.3967359710497,51.046628861727,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2334559",NA
+"82",1957328,"HOUSE",780000,249,69.99174882425,2,"Antwerpen","2000","Vlasmarkt","9",4.3971488289777,51.219921525871,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1957328",NA
+"83",1749696,"HOUSE",419900,195,67.670904209372,4,"Antwerpen","2018","Diercxsensstraat","59",4.3980037518704,51.204402042165,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1749696",NA
+"84",2334558,"HOUSE",525000,224,1453,3,"Mechelen","2801","Steenweg op blaasveld","105",4.398818163018,51.046573342025,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2334558",NA
+"85",1788528,"HOUSE",635000,309,214.64214117639,6,"Antwerpen","2018","Haantjeslei","37",4.3992991720425,51.203194938776,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1788528",NA
+"86",1952646,"HOUSE",738500,247,53,3,"Antwerpen","2000","Verbondstraat","39",4.4003382039096,51.210010431402,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1952646",NA
+"87",2163934,"HOUSE",385000,160,344.57441974687,3,"Stabroek","2940","Mattheus mannienlaan","2",4.4005373039271,51.310697086333,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2163934",NA
+"88",2166320,"HOUSE",365000,210,240,4,"Stabroek","2940","Sint-Hubertusstraat","6",4.4006996698411,51.306168930624,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2166320",NA
+"89",2160530,"HOUSE",329000,157,380,3,"Stabroek","2940","Elzenlaan","2",4.4007244502107,51.311732808063,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2160530",NA
+"90",1788551,"HOUSE",779000,228,95.282080914825,4,"Antwerpen","2018","Haantjeslei","89",4.4012437605974,51.20201347425,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1788551",NA
+"91",1810915,"HOUSE",699000,356,110.21569137368,6,"Antwerpen","2000","Jeruzalemstraat","15",4.4033782634983,51.222263749606,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1810915",NA
+"92",1871694,"HOUSE",575000,130,45,2,"Antwerpen","2000","Moriaanstraat","13",4.4034049034496,51.221421052054,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1871694",NA
+"93",1800667,"HOUSE",375000,178,51,5,"Antwerpen","2000","Huikstraat","13",4.4042643296195,51.224708359587,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1800667",NA
+"94",2326702,"HOUSE",425000,243.45,291.06,3,"Mechelen","2801","Nuffelstraat","18",4.4043892346952,51.051947632732,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2326702",NA
+"95",2159973,"HOUSE",359000,130,181.25588650687,3,"Stabroek","2940","Canadalaan","9",4.4066045239702,51.31251064951,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2159973",NA
+"96",2159043,"HOUSE",225000,150,91.859071216284,3,"Stabroek","2940","Antwerpse steenweg","2",4.4072280047653,51.306945161417,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2159043",NA
+"97",2164226,"HOUSE",379000,130,98.031887387828,3,"Stabroek","2940","Molenstraat","32",4.4090966861315,51.307604461314,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2164226",NA
+"98",1889681,"HOUSE",350000,135,300,4,"Antwerpen","2180","Pierre van gehuchtenstraat","29",4.4099484835349,51.272623029016,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1889681",NA
+"99",1694456,"HOUSE",329000,121,150,2,"Antwerpen","2180","Akker","105",4.4100698773506,51.278482772974,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1694456",NA
+"100",2159044,"HOUSE",299500,158,315,3,"Stabroek","2940","Antwerpse steenweg","89",4.4101774590976,51.303924186698,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2159044",NA
+"101",2164256,"HOUSE",320000,400,334.06745445426,4,"Stabroek","2940","Molenstraat","64",4.4106529384148,51.308029341254,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2164256",NA
+"102",2164202,"HOUSE",275000,174,400,4,"Stabroek","2940","Molenstraat","93",4.4107736627654,51.308863445052,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2164202",NA
+"103",1785255,"HOUSE",299000,189,180,4,"Antwerpen","2180","Groot hagelkruis","153",4.4111358635242,51.275149476132,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1785255",NA
+"104",1947503,"HOUSE",250000,236,107,4,"Antwerpen","2018","Van noortstraat","3",4.4115860581067,51.210162145318,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1947503",NA
+"105",1931325,"HOUSE",799000,205,102,4,"Antwerpen","2600","Terlinckstraat","93",4.4122720457375,51.194114562689,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1931325",NA
+"106",1937885,"HOUSE",285000,173,200.75481961505,3,"Antwerpen","2180","Tweekronenstraat","3",4.4125973343247,51.285321749095,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1937885",NA
+"107",1926658,"HOUSE",425000,150,55,2,"Antwerpen","2000","Stijfselrui","49",4.412681217262,51.225974903886,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1926658",NA
+"108",1886330,"HOUSE",259000,137.5,125,4,"Antwerpen","2180","Pastorijveld","71",4.4134580787153,51.27458731816,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1886330",NA
+"109",1903434,"HOUSE",595000,225,215.18695211463,6,"Antwerpen","2000","Rodestraat","8",4.4136774164485,51.224141450986,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1903434",NA
+"110",1698191,"HOUSE",560000,170,489,3,"Antwerpen","2610","Angelus roncallilaan","18",4.4148974911484,51.164438526288,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1698191",NA
+"111",2335643,"HOUSE",445000,122,658,3,"Mechelen","2811","Ten moortele","32",4.4160279514753,51.03461715455,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2335643",NA
+"112",1877684,"HOUSE",475000,265,125,5,"Antwerpen","2060","Olijftakstraat","16",4.4167734281216,51.223581192859,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1877684",NA
+"113",1869534,"HOUSE",385000,255,181.60087767057,5,"Antwerpen","2180","Molenstraat","19",4.4168401672782,51.280910789316,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1869534",NA
+"114",1924793,"HOUSE",279000,160,208.00247073919,4,"Antwerpen","2180","Steenstraat","23",4.4170582195717,51.277200421417,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1924793",NA
+"115",2064448,"HOUSE",389000,164,210,3,"Kapellen","2950","Albertdreef","14",4.4170633165896,51.309561932043,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2064448",NA
+"116",1719127,"HOUSE",495000,353,184,4,"Antwerpen","2018","Boomgaardstraat","11",4.4171179363283,51.199823240077,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1719127",NA
+"117",1708816,"HOUSE",420000,150,63,3,"Antwerpen","2600","Belpairestraat","19",4.4173877848115,51.198049275122,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1708816",NA
+"118",1732190,"HOUSE",349900,230,95,7,"Antwerpen","2060","Cassiersstraat","47",4.4176467913817,51.22742207328,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1732190",NA
+"119",2067639,"HOUSE",349000,218,195,3,"Kapellen","2950","Essenhoutstraat","292",4.4179650608423,51.307677915881,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2067639","new"
+"120",2064454,"HOUSE",359000,140,184,4,"Kapellen","2950","Albertdreef","5",4.417965735714,51.309857157686,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2064454",NA
+"121",1880293,"HOUSE",334000,183,65,6,"Antwerpen","2060","Osystraat","69",4.4184102170409,51.22271229077,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1880293",NA
+"122",1719746,"HOUSE",275000,143.6,100,3,"Antwerpen","2180","Boomstraat","15",4.4189879922208,51.28270729038,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1719746",NA
+"123",1904614,"HOUSE",295000,185,57,4,"Antwerpen","2060","Rotterdamstraat","38",4.4192223283303,51.223367694363,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1904614",NA
+"124",2075401,"HOUSE",359000,120,190,2,"Kapellen","2950","Rene de pauwstraat","90",4.4200215948961,51.314687589872,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2075401",NA
+"125",2065574,"LAND",185000,0,512,0,"Kapellen","2950","Biartlei","12",4.420072,51.31195,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2065574",NA
+"126",1710298,"HOUSE",259000,95,65,2,"Antwerpen","2600","Berthoutstraat","2",4.4201459618851,51.196817138288,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1710298",NA
+"127",2074175,"HOUSE",399000,122,545.74875606468,2,"Kapellen","2950","Palmstraat","84",4.4206977328042,51.304430292648,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2074175",NA
+"128",2067919,"HOUSE",355000,124,346,3,"Kapellen","2950","Essenhoutstraat","184",4.4207956372549,51.310476482357,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2067919",NA
+"129",1753938,"HOUSE",449000,205,382,3,"Antwerpen","2180","Driehoekstraat","48",4.4208492053503,51.280540081176,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1753938",NA
+"130",1879499,"HOUSE",395000,190,63.193995819427,4,"Antwerpen","2060","Oranjestraat","43",4.4210060343183,51.227628872973,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1879499",NA
+"131",1753710,"HOUSE",329000,155,135,4,"Antwerpen","2180","Driehoekstraat","103",4.4211373956856,51.282898112715,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1753710",NA
+"132",1712037,"HOUSE",395000,206,97,5,"Antwerpen","2600","Bindstraat","23",4.4212731152896,51.199264231974,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1712037",NA
+"133",2069514,"HOUSE",249000,105,191.82594865467,3,"Kapellen","2950","Hoevensebaan","183",4.4216953841456,51.311593020586,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2069514",NA
+"134",2123040,"HOUSE",329000,248,259,2,"Rumst","2840","Molenbergstraat","84",4.4225206813836,51.08017221762,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2123040",NA
+"135",1762805,"HOUSE",375000,133,71.542648127302,3,"Antwerpen","2060","Everaertsstraat","9",4.4225232501047,51.226907644985,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1762805",NA
+"136",2076348,"HOUSE",379000,176,283,4,"Kapellen","2950","Streepstraat","65",4.422693700968,51.318302109123,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2076348",NA
+"137",1730752,"HOUSE",199000,95,110,3,"Antwerpen","2030","Cardiffstraat","32",4.4229599053104,51.255661195171,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1730752",NA
+"138",2069589,"HOUSE",275000,330,0,3,"Kapellen","2950","Hoevensebaan","153",4.4230061189898,51.312095348087,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2069589",NA
+"139",1804524,"HOUSE",465000,173,331,3,"Antwerpen","2180","Jaak van haesendonckstraat","15",4.4237779345574,51.284029612734,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1804524",NA
+"140",1776642,"HOUSE",399900,176,105,4,"Antwerpen","2600","Generaal drubbelstraat","9",4.4240790216682,51.200754844054,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1776642",NA
+"141",2323698,"HOUSE",599000,240,1595.8940916648,4,"Mechelen","2801","Mechelbaan","6",4.4243749463456,51.044214736598,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2323698",NA
+"142",1764157,"HOUSE",349000,164,450,2,"Antwerpen","2180","Ferdinand pauwelsstraat","37",4.425137524817,51.28281704542,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1764157",NA
+"143",1782579,"HOUSE",385000,NA,70,4,"Antwerpen","2060","Greinstraat","89",4.4254276764502,51.22056895814,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1782579",NA
+"144",2069724,"HOUSE",310000,230,309.05178716208,3,"Kapellen","2950","Hoevensebaan","75",4.4256591060684,51.313282390236,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2069724",NA
+"145",1896802,"LAND",215000,NA,76,NA,"Antwerpen","2018","Provinciestraat","146",4.4257670120338,51.213121421756,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1896802",NA
+"146",1927289,"HOUSE",495000,233,149,4,"Antwerpen","2600","Strijdhoflaan","47",4.4260401691069,51.185564601926,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1927289",NA
+"147",1868199,"HOUSE",459000,270,72,5,"Antwerpen","2018","Milisstraat","3",4.4261610230977,51.21406885104,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1868199",NA
+"148",1836269,"HOUSE",275000,117,37,4,"Antwerpen","2018","Kruikstraat","25",4.4261670107382,51.209090468767,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1836269",NA
+"149",1896845,"HOUSE",425000,210,165,4,"Antwerpen","2018","Provinciestraat","67",4.4262887595983,51.215781571296,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1896845",NA
+"150",1770266,"HOUSE",435000,160,128,3,"Antwerpen","2610","Frans van dunlaan","1",4.4263011217854,51.17281986745,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1770266",NA
+"151",1720016,"HOUSE",499000,207,68.336104133312,4,"Antwerpen","2018","Borgerhoutsestraat","10",4.4265007235615,51.213176320818,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1720016",NA
+"152",1801613,"HOUSE",399900,160,62.482556547038,4,"Antwerpen","2060","Ijzerlaan","31",4.4265063196444,51.235512381632,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1801613",NA
+"153",1718845,"HOUSE",349000,149,60,4,"Antwerpen","2018","Boomgaardstraat","153",4.4267068277167,51.201197735075,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1718845",NA
+"154",2031183,"HOUSE",539000,185,189,3,"Edegem","2650","Joe englishlaan","47",4.426730594088,51.154950198408,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2031183",NA
+"155",1775784,"HOUSE",410000,196,189,4,"Antwerpen","2180","Geestenspoor","92",4.427074,51.28286,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1775784",NA
+"156",2125885,"HOUSE",395000,198,240.99641392731,5,"Rumst","2840","Tuinwijk","91",4.4272534886713,51.080917126371,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2125885",NA
+"157",1729026,"HOUSE",375000,169,219.39659781661,3,"Antwerpen","2180","Bund","40",4.4276804797831,51.285379808507,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1729026",NA
+"158",2029649,"HOUSE",675000,157,242,3,"Edegem",NA,"Garden citylaan","57",4.4287071832525,51.170377801587,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2029649",NA
+"159",2065617,"HOUSE",739000,300,1275,4,"Kapellen","2950","Beukendreef","12",4.4288555767592,51.307294725896,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2065617",NA
+"160",1794700,"HOUSE",349000,177,83,5,"Antwerpen","2060","Herderstraat","32",4.4293471193842,51.222782816339,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1794700",NA
+"161",1794728,"HOUSE",349000,135,61.96550985775,3,"Antwerpen","2060","Herderstraat","3",4.4294144988867,51.223529859191,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1794728",NA
+"162",1907594,"HOUSE",315000,193,82,5,"Antwerpen","2060","Rupelstraat","45",4.429758593414,51.23213160824,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1907594",NA
+"163",1794698,"HOUSE",299000,105,28.736089888727,1,"Antwerpen","2060","Herderstraat","51",4.4297909809024,51.222577253032,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1794698",NA
+"164",1850499,"HOUSE",329000,150,45.343847166281,3,"Antwerpen","2140","Langstraat","16",4.4302022288908,51.212119406259,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1850499",NA
+"165",1926600,"HOUSE",495000,221,105,3,"Antwerpen","2018","Stierstraat","4",4.4302428044265,51.207834746922,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1926600",NA
+"166",2067156,"HOUSE",289000,130,339,3,"Kapellen","2950","Engelselei","37",4.4304064207139,51.317568275735,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2067156",NA
+"167",1808272,"HOUSE",359000,200,88,4,"Antwerpen","2060","Jan palfijnstraat","38",4.430821588267,51.222855679481,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1808272",NA
+"168",1726882,"HOUSE",289000,130,272.03421585355,3,"Antwerpen","2180","Bremboslei","57",4.4310109555425,51.284278185148,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1726882",NA
+"169",1961306,"HOUSE",539000,167,81.019346256508,3,"Antwerpen","2018","Walvisstraat","29",4.4310215885444,51.208383181805,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1961306",NA
+"170",1790320,"HOUSE",425000,260,133,3,"Antwerpen","2060","Handelstraat","84",4.4314469550416,51.224022910775,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1790320",NA
+"171",1753301,"HOUSE",625000,240,96.084230744367,2,"Antwerpen","2018","Draakstraat","34",4.4315424460096,51.206075571491,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1753301",NA
+"172",1939075,"HOUSE",399000,171,97.260310391896,3,"Antwerpen","2610","Ullensstraat","26",4.4316339510231,51.172566996095,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1939075",NA
+"173",1950989,"HOUSE",310000,139,50,4,"Antwerpen","2060","Veldstraat","40",4.4318263743932,51.22563069876,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1950989",NA
+"174",2073156,"HOUSE",425000,185,200,4,"Kapellen","2950","Lucien bevernagestraat","10",4.4320931185009,51.311291570022,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2073156","new"
+"175",1819377,"HOUSE",349000,162,184,3,"Antwerpen","2180","Kardelaan","84",4.4325632548389,51.27809902481,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1819377",NA
+"176",1765677,"HOUSE",475000,140,138.45055217319,3,"Antwerpen","2600","Florent Bauduinstraat","48",4.4326365070066,51.191906298907,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1765677",NA
+"177",1913507,"HOUSE",499000,220,220,4,"Antwerpen","2140","Sergeyselsstraat","48",4.4328570222601,51.211907374573,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1913507",NA
+"178",1849448,"HOUSE",265000,120,50.863705526281,3,"Antwerpen","2060","Lange van bloerstraat","69",4.4331045553936,51.220910162102,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1849448",NA
+"179",1831868,"HOUSE",275000,116,48,3,"Antwerpen","2060","Korte beeldekensstraat","10",4.4332741596888,51.221485987726,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1831868",NA
+"180",2072184,"HOUSE",317000,NA,95,4,"Kapellen","2950","Koningin astridlaan","1",4.4337396329722,51.313733980833,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2072184",NA
+"181",1945521,"HOUSE",219000,170,87.207549974788,6,"Antwerpen","2060","Van helmontstraat","20",4.435676744326,51.224880799366,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1945521",NA
+"182",2072141,"HOUSE",279000,118,290,3,"Kapellen","2950","Koning albertlei","111",4.435747304543,51.317991263388,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2072141",NA
+"183",1971361,"HOUSE",429000,182,260,5,"Antwerpen","2170","Zuster van onze lieve vrouwstraat","29",4.4360635910297,51.241599167228,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1971361",NA
+"184",1776472,"HOUSE",595000,270,110,7,"Antwerpen","2600","Generaal capiaumontstraat","33",4.4361508355537,51.203265697304,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1776472",NA
+"185",1773507,"HOUSE",359000,152,163,4,"Antwerpen","2170","Gagelveldenstraat","46",4.4361756040157,51.242776868289,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1773507",NA
+"186",1938710,"HOUSE",640000,155,80,3,"Antwerpen","2600","Uitbreidingstraat","572",4.436243566888,51.203191863051,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1938710",NA
+"187",1851295,"HOUSE",337000,152,202,3,"Antwerpen","2180","Leerhoeklaan","71",4.4363537384969,51.279072317479,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1851295",NA
+"188",1893711,"HOUSE",215000,158,58,3,"Antwerpen","2060","Pothoekstraat","87",4.4366701526071,51.222311449612,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1893711",NA
+"189",1859969,"HOUSE",269000,123,41,4,"Antwerpen","2060","Maatsstraat","46",4.4373113369021,51.225528762227,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1859969",NA
+"190",1950392,"HOUSE",299000,102,36,3,"Antwerpen","2140","Vandenpeereboomstraat","1",4.4376242707151,51.211387203106,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1950392",NA
+"191",1969914,"HOUSE",285000,150,94,4,"Antwerpen","2060","Zeilstraat","33",4.4380229288891,51.22489275765,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1969914",NA
+"192",1824995,"HOUSE",249000,128,57,3,"Antwerpen","2060","Kersbeekstraat","2",4.4382782983842,51.220462983185,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1824995",NA
+"193",1952805,"HOUSE",229000,106,52,4,"Antwerpen","2140","Vercammenstraat","30",4.4383435332437,51.219712315324,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1952805",NA
+"194",1775021,"HOUSE",269000,166,208,2,"Antwerpen","2170","Gasthuishoevestraat","62",4.4385876172511,51.237996111305,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1775021",NA
+"195",1908212,"HOUSE",339000,120,83.622511380352,2,"Antwerpen","2600","Saffierstraat","120",4.4390088255167,51.194945851161,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1908212",NA
+"196",1778477,"HOUSE",249000,165,53,3,"Antwerpen","2140","Gijselsstraat","1",4.4390317806024,51.218424980833,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1778477",NA
+"197",1933511,"HOUSE",375000,170,91.099430581613,4,"Antwerpen","2060","Touwstraat","38",4.4392570197803,51.224305409167,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1933511",NA
+"198",1769989,"HOUSE",445000,160,124.52244497836,3,"Antwerpen","2180","Frans standaertlei","49",4.4393048237427,51.29265248635,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1769989",NA
+"199",2075305,"HOUSE",649000,232,1100,4,"Kapellen","2950","Reeboklaan","20",4.4396215480165,51.331338371868,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2075305",NA
+"200",1933554,"HOUSE",315000,183,91,3,"Antwerpen","2060","Touwstraat","67",4.4401775818448,51.224046670051,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1933554",NA
+"201",2082930,"HOUSE",399900,175,187,3,"Kontich","2550","Kongostraat","36",4.4404949356962,51.131829307767,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2082930",NA
+"202",1833739,"HOUSE",259000,99,46,3,"Antwerpen","2140","Kortrijkstraat","66",4.4405051827974,51.221971915262,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1833739",NA
+"203",1700742,"HOUSE",499000,402,173,10,"Antwerpen","2140","Appelstraat","45",4.4406351105197,51.212340150954,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1700742",NA
+"204",1852831,"HOUSE",389000,164,128.33985874709,4,"Antwerpen","2180","Leo Vermandellei","15",4.440705741593,51.294318403994,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1852831",NA
+"205",1928187,"HOUSE",268000,139,54,5,"Antwerpen","2140","Tabernakelstraat","1",4.4410500923803,51.215039769024,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1928187",NA
+"206",1732727,"HOUSE",210000,115,42.511363441008,3,"Antwerpen","2140","Ceresstraat","13",4.4413915045566,51.219269124442,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1732727",NA
+"207",2082124,"HOUSE",275000,130,74,3,"Kontich","2550","Jordaensstraat","3",4.4425891985346,51.135581651225,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2082124",NA
+"208",6184893,"HOUSE",607489,234,267,4,"Mechelen","2811","Bergenstraat","47",4.4425913492036,51.012221234354,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6184893",NA
+"209",1968667,"HOUSE",395000,206,134.36175059411,5,"Antwerpen","2170","Wuytslei","31",4.4427605960464,51.244462407393,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1968667",NA
+"210",2319874,"HOUSE",375000,192,373,4,"Mechelen","2811","Leibeekstraat","12",4.4432378295812,51.014764267458,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2319874",NA
+"211",1782504,"HOUSE",235000,140,69,4,"Antwerpen","2140","Gravinstraat","24",4.443277316162,51.215371579134,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1782504",NA
+"212",1806181,"HOUSE",320000,147,45,5,"Antwerpen","2140","Jan de laetstraat","25",4.4446188177817,51.218103492707,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1806181",NA
+"213",2094984,"HOUSE",341000,105,103.27739270427,2,"Mortsel","2640","Edegemsestraat","149",4.4446788815174,51.166712457353,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2094984",NA
+"214",1958685,"HOUSE",280000,146,260,3,"Antwerpen","2170","Volkstuinlei","6",4.4447381442868,51.259814988277,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1958685",NA
+"215",1851017,"HOUSE",325000,140,120,4,"Antwerpen","2170","Lebaudystraat","36",4.4447877886009,51.241078164398,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1851017",NA
+"216",1940344,"HOUSE",339000,185.41,101.86468271213,3,"Antwerpen","2170","Van Aertselaerstraat","1",4.4448771318543,51.244554475911,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1940344",NA
+"217",1698517,"HOUSE",399000,338,215,5,"Antwerpen","2170","Annuntiatenstraat","62",4.444957637897,51.24749475651,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1698517",NA
+"218",2095145,"HOUSE",299000,181,145,3,"Mortsel","2640","Edmond thieffrylaan","10",4.4450959417432,51.166580617713,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2095145",NA
+"219",1969995,"HOUSE",389000,197,99,4,"Antwerpen","2140","Zendelingenstraat","48",4.4451337795491,51.216767437916,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1969995",NA
+"220",1940617,"HOUSE",569000,225,149.4363914,6,"Antwerpen","2100","Van amstelstraat","43",4.4451791746306,51.232759626881,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1940617",NA
+"221",1850231,"HOUSE",319000,143,175.41931466106,5,"Antwerpen","2600","Langemarkstraat","64",4.4452201507858,51.193306273982,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1850231",NA
+"222",1869129,"HOUSE",449000,185,211,4,"Antwerpen","2170","Moeshofstraat","127",4.4457901173545,51.253879684081,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1869129",NA
+"223",2032917,"HOUSE",299900,125,151.66073259665,2,"Edegem","2650","Onafhankelijkheidsstraat","60",4.4461736280718,51.158471445189,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2032917",NA
+"224",1908110,"HOUSE",399000,118,202,3,"Antwerpen","2600","Saffierstraat","226",4.4465054413874,51.190629204638,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1908110",NA
+"225",2084230,"HOUSE",735000,300,935,4,"Kontich","2550","Mechelsesteenweg","160",4.4465383731377,51.129092579795,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2084230",NA
+"226",1944108,"HOUSE",325000,135,230,3,"Antwerpen","2100","Van duyststraat","74",4.4465516044549,51.231347411648,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1944108",NA
+"227",1837954,"HOUSE",375000,269,187,3,"Antwerpen","2170","Laaglandlaan","160",4.4465529050369,51.256072065853,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1837954",NA
+"228",1944030,"HOUSE",375000,200,260,4,"Antwerpen","2100","Van duyststraat","96",4.447359034231,51.231566294123,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1944030",NA
+"229",1943859,"HOUSE",265000,125,110,3,"Antwerpen","2100","Van duyststraat","97",4.4478557770935,51.232043174666,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1943859",NA
+"230",1796933,"HOUSE",315000,156,181,3,"Antwerpen","2180","Hoeklaan","48",4.4479064103732,51.278951183529,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1796933",NA
+"231",1694669,"HOUSE",295000,102,100,4,"Antwerpen","2100","Albert bevernagelei","93",4.4479303358817,51.233759972668,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1694669",NA
+"232",2031750,"HOUSE",360000,161,298,2,"Edegem","2650","Laureysstraat","60",4.4480254916476,51.161057891746,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2031750",NA
+"233",1830094,"HOUSE",280000,175,305,4,"Antwerpen","2170","Komiteitstraat","15",4.4480963979429,51.244944332697,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1830094",NA
+"234",1821028,"HOUSE",445000,125,145,3,"Antwerpen","2140","Karel van den oeverstraat","40",4.4485903014611,51.204473251359,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1821028",NA
+"235",1704751,"HOUSE",321000,136,181.63141752034,3,"Antwerpen","2180","Baljuwlaan","15",4.4486927448631,51.278074843818,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1704751",NA
+"236",1938153,"HOUSE",259000,77,90,3,"Antwerpen","2100","Tweemontstraat","196",4.4487938083063,51.234346951118,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1938153",NA
+"237",2084027,"HOUSE",259000,206,212,2,"Kontich","2550","Mechelsesteenweg","258",4.4489992678321,51.124981259394,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2084027",NA
+"238",2092673,"HOUSE",495000,384,341.50677912356,2,"Mortsel","2640","Antwerpsestraat","4",4.449277669087,51.171134581304,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2092673",NA
+"239",1948583,"HOUSE",259000,152,68,3,"Antwerpen","2100","Van rossumstraat","38",4.4492936096476,51.229161377408,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1948583",NA
+"240",1743710,"HOUSE",285000,160,75.09877171932,4,"Antwerpen","2100","De gryspeerstraat","116",4.4493982159973,51.227237793767,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1743710",NA
+"241",1997329,"HOUSE",495000,185,753,3,"Brasschaat","2930","Charlottalei","7",4.4495637995889,51.298798953033,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1997329",NA
+"242",2071291,"HOUSE",489000,180,699.95900850929,3,"Kapellen","2950","Kauwenlaan","8",4.4499576236509,51.300625158866,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2071291",NA
+"243",1754851,"HOUSE",349000,485,205.87209579535,3,"Antwerpen","2170","Du chastellei","76",4.4507712906811,51.250881585337,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1754851",NA
+"244",1943287,"HOUSE",235000,82,141,3,"Antwerpen","2100","Van deynsestraat","85",4.4509872576236,51.22923234778,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1943287",NA
+"245",1754797,"HOUSE",450000,235,168.52278110321,3,"Antwerpen","2170","Du chastellei","67",4.4510447966993,51.250381122477,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1754797",NA
+"246",2078327,"HOUSE",99900,230,452.2,3,"Kontich","2550","Bautersemstraat","20",4.4511755655664,51.136398077488,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2078327",NA
+"247",1724630,"HOUSE",675000,280,354,8,"Antwerpen","2170","Bredabaan","646",4.4512094844998,51.247572704803,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1724630",NA
+"248",1724469,"HOUSE",599000,250,333,8,"Antwerpen","2170","Bredabaan","648",4.4513320191985,51.247578448655,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1724469",NA
+"249",1943389,"HOUSE",195000,126,97,2,"Antwerpen","2100","Van deynsestraat","122",4.4516485954708,51.230087747485,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1943389",NA
+"250",2030370,"HOUSE",299000,120,250.07912948878,2,"Edegem","2650","Herfstlei","61",4.4522789250326,51.153456620539,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2030370",NA
+"251",1820814,"HOUSE",315000,226.43,100,3,"Antwerpen","2180","Karel seclefstraat","1",4.4524495486333,51.277019258657,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1820814",NA
+"252",1866325,"HOUSE",269000,140,203.42423337727,3,"Antwerpen","2170","Melgesdreef","171",4.4528592056804,51.256226125164,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1866325",NA
+"253",2041032,"HOUSE",218000,123,220,2,"Essen","2910","Kleine veldweg","4",4.4530300144811,51.460404723132,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2041032",NA
+"254",2315450,"HOUSE",575000,351,441,4,"Mechelen","2800","Koning albertstraat","229",4.4534214215074,51.069737893252,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2315450",NA
+"255",1938346,"HOUSE",184900,130,110.11203936301,4,"Antwerpen","2100","Tweemontstraat","73",4.4535224548317,51.234145188193,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1938346",NA
+"256",2082969,"HOUSE",349000,138,145,3,"Kontich","2550","Konijnenveld","50",4.4538217477944,51.137353377102,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2082969",NA
+"257",1754789,"HOUSE",419000,180,125,3,"Antwerpen","2170","Du chastellei","5",4.4540306685485,51.249680327072,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1754789",NA
+"258",6079039,"HOUSE",331757.85,NA,471,3,"Essen","2910","Marc baetensstraat","20",4.4540925712584,51.4592472634,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6079039",NA
+"259",2084700,"HOUSE",517500,240,756,4,"Kontich","2550","Nachtegaalstraat","60",4.4541150155032,51.130452798636,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2084700",NA
+"260",2081663,"HOUSE",360000,174.68,234.18568751053,3,"Kontich","2550","Hoogbunderlaan","43",4.4542429168054,51.132377485523,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2081663",NA
+"261",2098324,"HOUSE",398000,164,258,3,"Mortsel","2640","Krijgsbaan","138",4.4542520020506,51.175010032432,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2098324",NA
+"262",2101887,"HOUSE",395000,205,585,4,"Mortsel","2640","Prins leopoldlei","39",4.4544270687466,51.168889548223,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2101887",NA
+"263",1839927,"HOUSE",275000,111,65,3,"Antwerpen","2100","Lakborslei","367",4.4545032429484,51.229043184798,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1839927",NA
+"264",1779239,"HOUSE",719000,220,129.2647916365,6,"Antwerpen","2140","Gitschotellei","377",4.4545849482512,51.197986560336,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1779239",NA
+"265",1840040,"HOUSE",195000,114,95.361854180461,1,"Antwerpen","2100","Lakborslei","389",4.4546837026515,51.229642222422,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1840040",NA
+"266",1955256,"HOUSE",299000,216,150,2,"Antwerpen","2170","Victor roosensplein","21",4.4546850707467,51.248559105314,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1955256","new"
+"267",1746434,"HOUSE",319000,150,165,4,"Antwerpen","2100","De sevillastraat","11",4.4547125446976,51.205976918082,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1746434",NA
+"268",1881434,"HOUSE",349900,220,199.98128481675,5,"Antwerpen","2170","Oudebareellei","19",4.4548311175356,51.247649745443,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1881434",NA
+"269",1955253,"HOUSE",349000,210,216.84339154325,3,"Antwerpen","2170","Victor roosensplein","31",4.4550179746949,51.248704202516,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1955253",NA
+"270",1955229,"HOUSE",359000,178,243.77092140168,3,"Antwerpen","2170","Victor roosensplein","31/33",4.4550860291805,51.24874709581,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1955229",NA
+"271",2062804,"HOUSE",575000,178,1157,3,"Kalmthout","2920","Rozendreef","1",4.4551731348656,51.379494058871,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2062804",NA
+"272",2040163,"HOUSE",475000,159,675,3,"Essen","2910","Huybergsebaan","56",4.4558215764007,51.4234810685,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2040163",NA
+"273",1821984,"HOUSE",295000,170,172,4,"Antwerpen","2170","Kasterveldenstraat","23",4.4565593902626,51.253493158254,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1821984",NA
+"274",1821974,"HOUSE",339000,170,240,5,"Antwerpen","2170","Kasterveldenstraat","74",4.4567134419026,51.255031720167,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1821974",NA
+"275",1820631,"HOUSE",229000,105,95,2,"Antwerpen","2100","Karel palmsstraat","35",4.4568112195156,51.22593188076,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1820631",NA
+"276",1869309,"HOUSE",349000,177,73,3,"Antwerpen","2170","Molenlei","33",4.4568228028223,51.248850476191,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1869309",NA
+"277",2103910,"HOUSE",469000,196,422,4,"Mortsel","2640","Tommeltlaan","28",4.4569548563822,51.166009295174,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2103910",NA
+"278",2099400,"HOUSE",339000,175,100,3,"Mortsel","2640","Maalderijstraat","1",4.4580661678333,51.164306203669,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2099400",NA
+"279",2126240,"HOUSE",649000,237,2127,3,"Rumst","2840","Varenstraat","57",4.4581717479662,51.079597659712,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2126240",NA
+"280",1810889,"HOUSE",269000,NA,84.671732329298,4,"Antwerpen","2100","Jeroom beckstraat","10",4.4581788948082,51.23002499787,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1810889",NA
+"281",1867194,"HOUSE",249000,90,46.890337253804,3,"Antwerpen","2100","Merksemsesteenweg","99",4.458208444714,51.231409784556,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1867194",NA
+"282",1729592,"HOUSE",425000,219,170,4,"Antwerpen","2170","Camelialei","32",4.4582850291505,51.251309747868,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1729592",NA
+"283",2329327,"HOUSE",285000,117,210.39338460867,4,"Mechelen","2800","Pastorijstraat","23",4.458465804159,51.066540195865,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2329327",NA
+"284",2042102,"HOUSE",299000,163,418,3,"Essen","2910","Molenakkersstraat","15",4.45877,51.46367,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2042102",NA
+"285",1801963,"HOUSE",359000,140,75,5,"Antwerpen","2170","Irislei","5",4.4590157812217,51.247338783531,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1801963",NA
+"286",1869351,"HOUSE",319000,224,125,4,"Antwerpen","2170","Molenlei","108",4.4593527801627,51.247946811283,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1869351",NA
+"287",2329357,"HOUSE",475000,175,228,4,"Mechelen","2800","Pastorijstraat","10",4.459684189145,51.066267028126,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2329357",NA
+"288",1898814,"HOUSE",379900,225,140.08967102133,3,"Antwerpen","2100","Ravelsbergstraat","8",4.4599338531724,51.202759578637,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1898814",NA
+"289",2144873,"HOUSE",335000,191,295,5,"Schoten","2900","Eethuisstraat","131",4.4608731990788,51.247682111201,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2144873",NA
+"290",1702407,"HOUSE",299000,192,180,3,"Antwerpen","2100","August petenlei","53",4.4615221562487,51.203897930065,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1702407",NA
+"291",1884796,"HOUSE",399000,175,97.635493220761,4,"Antwerpen","2100","Palinckstraat","60 ",4.4617389569026,51.223751538757,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1884796",NA
+"292",1795429,"HOUSE",599000,240,357,3,"Antwerpen","2100","Herentalsebaan","224",4.461752151048,51.208282827378,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1795429",NA
+"293",2027499,"HOUSE",369000,140,315.45041247897,3,"Edegem","2650","Buizegemlei","181",4.4619105480544,51.151225444749,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2027499",NA
+"294",2153085,"HOUSE",329000,240,228,4,"Schoten","2900","Pletterijstraat","81",4.4621168771268,51.240063726172,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2153085",NA
+"295",1774089,"HOUSE",259000,145,80,6,"Antwerpen","2100","Gallifortlei","64",4.462632812154,51.221745376086,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1774089","new"
+"296",1961834,"HOUSE",349000,165,140,4,"Antwerpen","2100","Waterbaan","47",4.4635079733599,51.206923783817,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1961834",NA
+"297",1993983,"LAND",759000,NA,3534,NA,"Brasschaat","2930","Baillet latourlei","13",4.4639503527505,51.270618617266,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1993983",NA
+"298",2061207,"HOUSE",397000,186,346,3,"Kalmthout","2920","Leopoldstraat","11",4.4640354108729,51.365933767745,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2061207",NA
+"299",2053089,"HOUSE",350000,176,180.63180539885,2,"Hove","2540","Jan frans gellyncklaan","26",4.4643676330424,51.150090358208,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2053089","new"
+"300",2317623,"HOUSE",339000,112,115,3,"Mechelen","2800","Kurassiersstraat","11",4.4646070302083,51.040439510189,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2317623",NA
+"301",2147630,"HOUSE",269500,139,88,2,"Schoten","2900","Jozef cogelslei","187",4.4651006244963,51.23982082818,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2147630",NA
+"302",1774413,"HOUSE",299000,132,145,3,"Antwerpen","2100","Gallifortlei","213",4.4651433056394,51.224844045648,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1774413",NA
+"303",2252021,"HOUSE",479000,294,1795,4,"Duffel","2570","Notmeir","82",4.4656258333347,51.080136927369,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2252021",NA
+"304",1757619,"HOUSE",459000,215,55,3,"Antwerpen","2100","Eikblokstraat","8",4.465732497518,51.222181072668,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1757619",NA
+"305",2039865,"HOUSE",399000,247,481,4,"Essen","2910","Hofstraat","36",4.4659499814921,51.464417239092,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2039865",NA
+"306",1777689,"HOUSE",425000,208,174,3,"Antwerpen","2100","George ivanowlaan","84",4.4659604359446,51.192177704246,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1777689",NA
+"307",2325032,"HOUSE",525000,206,396,4,"Mechelen","2800","Nattehofstraat","28",4.4661141033094,51.02725256517,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2325032",NA
+"308",2055223,"HOUSE",439000,160,346,4,"Hove","2540","Vredestraat","57",4.4662575915066,51.147199046587,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2055223",NA
+"309",2297334,"HOUSE",295000,99,109,4,"Mechelen","2800","Battelsesteenweg","119",4.466538356851,51.029668896218,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2297334",NA
+"310",2063344,"HOUSE",324000,187,318,3,"Kalmthout","2920","Tulpenlaan","35",4.4672450706872,51.376886190598,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2063344",NA
+"311",1834161,"HOUSE",347000,216,253.17375954575,4,"Antwerpen","2100","Kreglingerstraat","15",4.46737860426,51.225222754107,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1834161",NA
+"312",2310858,"HOUSE",338000,140,65,2,"Mechelen","2800","Hombeeksesteenweg","184",4.4675787486187,51.017904780705,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2310858",NA
+"313",1721003,"HOUSE",259000,134,125,3,"Antwerpen","2100","Boshovestraat","84",4.4678909115216,51.222840295501,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1721003",NA
+"314",2320030,"HOUSE",293000,130,95,4,"Mechelen","2800","Lemmensstraat","32",4.4680658916455,51.026093940822,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2320030",NA
+"315",2316050,"HOUSE",545000,246,140,5,"Mechelen","2800","Koningin astridlaan","58",4.4691874133664,51.026746704843,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2316050",NA
+"316",1998017,"HOUSE",497000,200,472.73554188234,5,"Brasschaat","2930","De gagel","26",4.469853167864,51.304702881438,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1998017",NA
+"317",1720971,"HOUSE",295000,170,127,4,"Antwerpen","2100","Boshovestraat","130",4.4702450712028,51.222860972296,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1720971",NA
+"318",1896761,"HOUSE",417500,150,116.48289416899,3,"Antwerpen","2100","Prosper De Witstraat","9",4.4703057878894,51.226099508721,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1896761",NA
+"319",2053731,"HOUSE",425000,153,328,3,"Hove","2540","Leon dumortierstraat","182",4.4705033647699,51.149574060366,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2053731",NA
+"320",2327648,"HOUSE",460000,202,264,5,"Mechelen","2800","Oude antwerpsebaan","4",4.4711810000759,51.040375555645,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2327648",NA
+"321",2337845,"HOUSE",346000,130,115,3,"Mechelen","2800","Veldenstraat","17",4.471835096873,51.017548646253,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2337845",NA
+"322",2009393,"HOUSE",485000,157,477.46090143966,4,"Brasschaat","2930","Schout de Moorstraat","8",4.4720713620031,51.306931244659,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2009393",NA
+"323",2051920,"HOUSE",795000,228,720,4,"Hove","2540","Beukenlaan","4",4.4723133251445,51.144071015635,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2051920",NA
+"324",2327416,"HOUSE",149000,75,40.506863592542,2,"Mechelen","2800","Oscar van kesbeeckstraat","132",4.4724043985465,51.039931018737,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2327416",NA
+"325",1932905,"HOUSE",270000,156,150,2,"Antwerpen","2100","Tirinusstraat","40",4.4725850749252,51.224923692066,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1932905",NA
+"326",1932883,"HOUSE",265000,156,150,3,"Zwijndrecht","2070","Tirinusstraat","42",4.4725929879312,51.224991210269,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1932883",NA
+"327",1946720,"HOUSE",395000,245,294,4,"Antwerpen","2100","Van loenoutstraat","43",4.4736429052922,51.220485344748,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1946720",NA
+"328",2059961,"HOUSE",299000,109,355,4,"Kalmthout","2920","Kapellensteenweg","311",4.4736592298751,51.376249919717,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2059961",NA
+"329",2098065,"HOUSE",299000,162,190,3,"Mortsel","2640","Koeisteerthofdreef","28",4.4736745511247,51.170259885395,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2098065",NA
+"330",2326101,"HOUSE",413750,126,0,3,"Mechelen","2800","Nieuwe beggaardenstraat","41",4.4738028681367,51.029399625305,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2326101",NA
+"331",2326121,"HOUSE",97000,51,25,1,"Mechelen","2800","Nieuwe beggaardenstraat","36",4.473955185486,51.030068243194,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2326121",NA
+"332",2326574,"HOUSE",6e+05,270,235,4,"Mechelen","2800","Nonnenstraat","13",4.4741075652469,51.03118113167,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2326574",NA
+"333",2301939,"HOUSE",325000,127,96,3,"Mechelen","2800","Conventstraat","10",4.4742846643524,51.030484110355,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2301939",NA
+"334",2156212,"HOUSE",349000,227,331,2,"Schoten","2900","Van immerseelstraat","3",4.4747993263712,51.24486489791,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2156212",NA
+"335",2059669,"HOUSE",340000,167,439,3,"Kalmthout","2920","Kapellensteenweg","114",4.4748710225143,51.386383340066,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2059669",NA
+"336",2061515,"HOUSE",699000,350,2182,4,"Kalmthout","2920","Meidoornlaan","9",4.4750057391647,51.354550228765,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2061515",NA
+"337",2332924,"HOUSE",235000,114,45,4,"Mechelen","2800","Sint-Jacobstraat","38",4.4753223678617,51.021776150492,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2332924",NA
+"338",2062574,"HOUSE",549000,202,925,4,"Kalmthout","2920","Rodeweg","35",4.4754832729146,51.369326967112,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2062574",NA
+"339",2077500,"HOUSE",495000,0,285.9211227482,3,"Kontich","2550","Abraham Hanslaan","27",4.4755515438005,51.126565030821,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2077500",NA
+"340",2332910,"HOUSE",299000,150,83,3,"Mechelen","2800","Sint-Jacobstraat","29",4.4758535870432,51.021798562937,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2332910",NA
+"341",1737371,"HOUSE",379000,204,155,3,"Antwerpen","2100","Corneel franckstraat","63",4.4758701544422,51.207167565923,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1737371",NA
+"342",2328245,"HOUSE",395000,288,130,3,"Mechelen","2800","Oude liersebaan","3",4.4759906262017,51.036493697328,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2328245",NA
+"343",2302817,"HOUSE",519000,255,153.56999551016,5,"Mechelen","2800","Dijkstraat","12",4.4764948561606,51.017462794354,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2302817",NA
+"344",2079202,"HOUSE",425000,175,351.34636964928,2,"Kontich","2550","Dorre Eikstraat","47",4.4766804302311,51.129631251862,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2079202",NA
+"345",1696695,"HOUSE",369000,172,265,3,"Antwerpen","2100","Amandus geenenlaan","30",4.4768473978716,51.225663903831,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1696695",NA
+"346",2330975,"HOUSE",560000,157,633,2,"Mechelen","2800","Rietstraat","40",4.4772883735844,50.999116861997,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2330975",NA
+"347",2004767,"HOUSE",503500,160,1605.8837614511,3,"Brasschaat","2930","Lage Kaart","202",4.4774095322581,51.298962777611,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2004767",NA
+"348",2379859,"HOUSE",255000,104,135,3,"Sint-Katelijne-Waver","2860","Lindestraat","45",4.4776480089235,51.058688113743,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2379859",NA
+"349",2004948,"HOUSE",539000,240,503,3,"Brasschaat","2930","Langestraat","41",4.4782042303657,51.305787108955,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2004948",NA
+"350",2340765,"HOUSE",330000,183,133.58275005128,4,"Mechelen","2800","Zelestraat","30",4.4783474009595,51.033229476063,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2340765",NA
+"351",2322058,"HOUSE",468000,195,307,3,"Mechelen","2800","Lindestraat","25",4.4791078931849,51.005559992018,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2322058",NA
+"352",1746669,"HOUSE",295000,130,146.8483001492,2,"Antwerpen","2100","De Vréstraat","21",4.4801828741723,51.218635736562,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1746669",NA
+"353",1860685,"HOUSE",330000,100,214.44596567936,2,"Antwerpen","2100","Manebruggestraat","361",4.4802688124713,51.203344125326,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1860685","new"
+"354",2318681,"HOUSE",365000,111,57,3,"Mechelen","2800","Lange nieuwstraat","21",4.4807105973708,51.021447559823,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2318681",NA
+"355",2055926,"HOUSE",695000,261,1952,4,"Kalmthout","2920","Bakkersdreef","59",4.4807954561394,51.359536994399,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2055926",NA
+"356",2321768,"HOUSE",189000,112,70,3,"Mechelen","2800","Liersesteenweg","133",4.4810939364119,51.037218589011,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2321768",NA
+"357",2249703,"LAND",210000,NA,637,NA,"Duffel","2570","Kruisstraat","144",4.481655,51.08832,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2249703",NA
+"358",2321615,"HOUSE",295000,209,75,4,"Mechelen","2800","Liersesteenweg","63",4.4821001421992,51.035533691072,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2321615",NA
+"359",2056009,"HOUSE",648000,265,5331,4,"Kalmthout","2920","Beauvoislaan","60",4.4821533749915,51.368936380375,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2056009",NA
+"360",6011087,"HOUSE",425000,113,164,3,"Mechelen","2800","Rode molenstraat","64",4.482468461057,51.040454458336,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6011087",NA
+"361",2010960,"HOUSE",369000,138,200,3,"Brasschaat","2930","Verhoevenlei","154",4.4825702111427,51.292129707765,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2010960",NA
+"362",2298966,"HOUSE",395000,173,378,3,"Mechelen","2800","Beukstraat","57",4.482759381463,51.004513270828,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2298966",NA
+"363",2335580,"HOUSE",620000,319,130,4,"Mechelen","2800","'t vlietje","9",4.4842186638863,51.027272084102,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2335580",NA
+"364",2309269,"HOUSE",385000,208,215,3,"Mechelen","2800","Hanswijkvaart","25",4.4848062802422,51.013953100358,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2309269",NA
+"365",2313937,"HOUSE",595000,NA,89.56,4,"Mechelen","2800","Keizerstraat","18",4.4856087120108,51.028795444589,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2313937",NA
+"366",2010677,"HOUSE",285000,150,274,3,"Brasschaat","2930","Veldstraat","187",4.4856629140285,51.2955018218,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2010677",NA
+"367",1976365,"HOUSE",639000,334,946,7,"Boechout","2530","Sportveldlaan","20",4.4857965890521,51.160303784434,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1976365",NA
+"368",2003662,"HOUSE",285000,110,675,2,"Brasschaat","2930","Kenislei","22",4.4859590977207,51.299764458885,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2003662",NA
+"369",2142506,"HOUSE",359000,200,296,5,"Schoten","2900","Borkelstraat","12",4.4861102872151,51.250329012816,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2142506",NA
+"370",1989929,"HOUSE",395000,162,190,3,"Borsbeek","2150","Grimbert","13",4.4866032378744,51.199173592634,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1989929",NA
+"371",2008382,"HOUSE",359000,189,378,4,"Brasschaat","2930","Peter benoitlei","43",4.4875838907085,51.302962883379,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2008382",NA
+"372",2303581,"HOUSE",595000,204,345,3,"Mechelen","2800","Duivenstraat","35",4.4877466963047,51.046454230147,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2303581",NA
+"373",2296824,"HOUSE",336000,133,104.37583667616,4,"Mechelen","2800","Bakelaarstraat","6",4.4883820482162,51.03054715489,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2296824",NA
+"374",2175984,"HOUSE",439000,286,375,5,"Wommelgem","2160","Maria clarastraat","4",4.4899681039016,51.205544062947,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2175984",NA
+"375",1990277,"HOUSE",375000,225,222,3,"Borsbeek","2150","Herentalsebaan","171",4.4900941229371,51.199334628123,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1990277",NA
+"376",2005837,"HOUSE",459000,145,333,4,"Brasschaat","2930","Martouginlei","38",4.4903021741876,51.301100779843,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2005837",NA
+"377",2172669,"HOUSE",359000,170,293.50168824918,4,"Wommelgem","2160","Autolei","279",4.4914914101068,51.210055539592,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2172669",NA
+"378",1993382,"HOUSE",599000,203,243.63110716362,4,"Brasschaat","2930","Aerdenlei","34",4.4915818008389,51.292444420317,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1993382",NA
+"379",2317871,"HOUSE",345000,316.55,135,2,"Mechelen","2800","Lakenmakersstraat","81",4.4918324671593,51.028853505228,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2317871",NA
+"380",2089508,"HOUSE",275000,147,172,3,"Lint","2547","Kardinaal cardijnlaan","43",4.4918576898198,51.125503596805,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2089508",NA
+"381",2248014,"HOUSE",349000,120,141,2,"Duffel","2570","Geleweg","10",4.4925019967836,51.090634849594,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2248014",NA
+"382",2148709,"HOUSE",360000,224,460,3,"Schoten","2900","Kopstraat","56",4.4940684939091,51.256189476297,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2148709",NA
+"383",2088543,"HOUSE",319000,125,279,2,"Lint","2547","Duffelsesteenweg","111",4.4942568004425,51.123577064972,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2088543",NA
+"384",2300061,"HOUSE",275000,106,70,3,"Mechelen","2800","Borchtstraat","57",4.4944099303971,51.029740772555,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2300061","new"
+"385",2173927,"HOUSE",449000,178,361,4,"Wommelgem","2160","Fortbaan","42",4.494634081693,51.198864104456,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2173927",NA
+"386",2308193,"HOUSE",249000,157,156,3,"Mechelen","2800","Grote nieuwedijkstraat","320",4.4952286073798,51.039883454453,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2308193",NA
+"387",2090094,"HOUSE",575000,275,434,3,"Lint","2547","Koning albertstraat","12",4.4953687615457,51.128002869081,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2090094",NA
+"388",2091020,"HOUSE",395000,157,226.21687683312,3,"Lint","2547","Neerland","4",4.4960915152341,51.12098080007,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2091020",NA
+"389",2325412,"HOUSE",420000,206.5,245,4,"Mechelen","2800","Nekkerspoelstraat","151",4.4963189813366,51.031462928706,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2325412",NA
+"390",2088599,"HOUSE",219000,180,246,4,"Lint","2547","Duffelsesteenweg","47",4.4965154850166,51.125219260068,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2088599",NA
+"391",2145948,"HOUSE",319000,196,139.56506118487,4,"Schoten","2900","Gelmelenstraat","170",4.4975092069815,51.255093155894,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2145948",NA
+"392",2156695,"HOUSE",419000,258,402,2,"Schoten",NA,"Verbertstraat","100",4.4980382912414,51.247298859987,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2156695",NA
+"393",2251902,"HOUSE",265000,152,103,2,"Duffel","2570","Nieuwstraat","31",4.4986354316641,51.096245787979,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2251902",NA
+"394",1973555,"HOUSE",359000,115,472,3,"Boechout","2530","Gillegomstraat","35",4.4988446371836,51.167040747996,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1973555",NA
+"395",2062721,"HOUSE",625000,279,855,4,"Kalmthout","2920","Roosendaalsebaan","38",4.5000480499009,51.399813137331,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2062721",NA
+"396",2378946,"HOUSE",410000,235,365,3,"Sint-Katelijne-Waver","2860","Lagerheide","5",4.5003850075558,51.046006389265,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2378946",NA
+"397",2317777,"HOUSE",639000,330,202,3,"Mechelen","2800","Lakenmakersstraat","110",4.5003974575454,51.030633581066,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2317777",NA
+"398",2320773,"HOUSE",296000,148,135,3,"Mechelen","2800","Leuvensesteenweg","409",4.5016726690045,51.014229827016,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2320773",NA
+"399",2175206,"HOUSE",585000,197,812.95391162605,3,"Wommelgem","2160","Kapelaan Staslaan","13",4.5018432909846,51.197389999401,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2175206",NA
+"400",2380326,"HOUSE",339000,112.88,325.30177826411,3,"Sint-Katelijne-Waver","2860","Mechelsesteenweg","306",4.5034677216128,51.0459222923,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2380326",NA
+"401",2150144,"HOUSE",375000,130,220,3,"Schoten","2900","Leo van hullebuschstraat","61",4.5037808596223,51.248064368918,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2150144",NA
+"402",2325742,"HOUSE",229000,108,49,3,"Mechelen","2800","Nekkerspoelstraat","340",4.5039648777937,51.032770443253,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2325742",NA
+"403",2152449,"HOUSE",235000,158,255.05694151251,1,"Schoten","2900","Paalstraat","182",4.5044969731638,51.255749916017,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2152449",NA
+"404",2004711,"HOUSE",329000,135,425,3,"Brasschaat","2930","Lage kaart","619",4.50474518159,51.316481728119,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2004711",NA
+"405",2155423,"HOUSE",390000,185,282.54029201157,3,"Schoten","2900","Theofiel van Cauwenberghslei","67",4.5048145405509,51.252873919383,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2155423",NA
+"406",2056654,"HOUSE",495000,209,695,3,"Kalmthout",NA,"Brasschaatsteenweg","198",4.5050975291419,51.378258902594,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2056654",NA
+"407",5193865,"HOUSE",412301.93,NA,197,3,"Boechout","2530","Koolmeesstraat","10",4.506178,51.167789,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5193865",NA
+"408",2155868,"HOUSE",315000,153,136,4,"Schoten","2900","Tulpenlaan","8",4.5086271618969,51.257624696581,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2155868",NA
+"409",1972128,"HOUSE",325000,138,761,4,"Boechout","2530","Alexander franckstraat","252",4.5092151329829,51.159208942616,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1972128",NA
+"410",1998316,"HOUSE",549000,230,513,5,"Brasschaat","2930","De tomermaat","11",4.5102371164926,51.291767094338,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1998316",NA
+"411",2320695,"HOUSE",474000,306,259,7,"Mechelen","2800","Leuvensesteenweg","615",4.5114071123199,51.007948138554,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2320695",NA
+"412",1994482,"HOUSE",549900,188,986.58463157457,4,"Brasschaat","2930","Bethaniëlei","39",4.5118542741817,51.315421208238,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1994482",NA
+"413",2378100,"HOUSE",385000,135,268.68069297075,3,"Sint-Katelijne-Waver","2860","Ijzerenveld","42",4.5122002412043,51.035623563644,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2378100",NA
+"414",1974413,"HOUSE",329000,206,285,3,"Boechout","2530","Kapelleveldstraat","114",4.5129152525895,51.15746156211,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1974413",NA
+"415",2174815,"HOUSE",499000,274,577,3,"Wommelgem","2160","Hoevenstraat","104",4.5130393019233,51.205475182435,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2174815",NA
+"416",1973141,"HOUSE",525000,436,910,4,"Boechout","2530","De lochtlaan","17",4.5131908713408,51.164078180826,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/1973141",NA
+"417",2003886,"HOUSE",409000,115,193,3,"Brasschaat","2930","Klein hoefblad","10",4.5134526691388,51.292228135197,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2003886",NA
+"418",2249299,"LAND",190000,NA,600,NA,"Duffel","2570","Katelijnsesteenweg","52",4.5140343517413,51.090225164525,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2249299",NA
+"419",2173354,"HOUSE",324900,115,281.56629014935,3,"Wommelgem","2160","Doornaardstraat","42",4.5144913021595,51.209224489908,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2173354",NA
+"420",2148969,"HOUSE",335000,110,240.18445232604,3,"Schoten","2900","Kraaienlei","21",4.5152026028787,51.24765626544,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2148969",NA
+"421",2312104,"HOUSE",485000,190,380,3,"Mechelen","2812","Jan frans van geelstraat","2",4.5159041030795,51.009099793084,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2312104",NA
+"422",2177789,"HOUSE",289000,110,310,2,"Wommelgem","2160","Ternesselei","6",4.5168350212931,51.205851115865,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2177789",NA
+"423",2150472,"HOUSE",378000,145,235,2,"Schoten","2900","Lindenlei","141",4.5168515641926,51.248027460107,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2150472",NA
+"424",2150403,"HOUSE",398000,150,290,2,"Schoten","2900","Lindenlei","139",4.5168657495723,51.248052023068,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2150403",NA
+"425",2151547,"LAND",161185,0,1221.103347783,0,"Schoten","2900","Molenbaan","58",4.5178484335086,51.274545859381,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2151547",NA
+"426",2142934,"HOUSE",195000,90,156,2,"Schoten","2900","Brechtsebaan","228",4.5195964228379,51.271740467455,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2142934",NA
+"427",2177141,"HOUSE",435000,185,588,4,"Wommelgem","2160","Sint-Damiaanstraat","55",4.5218392213263,51.201123615445,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2177141",NA
+"428",6065811,"HOUSE",595000,147,245,3,"Boechout","2530","Eikhof","15",4.5252867999365,51.176743321466,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6065811",NA
+"429",2314257,"HOUSE",545000,311,974,4,"Mechelen","2812","Kerkenbos","67",4.5341482368028,51.001097820911,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2314257",NA
+"430",2287140,"HOUSE",465000,171,1220,3,"Lier","2500","Maaikeneveld","64",4.5358979837496,51.125390708196,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2287140",NA
+"431",2179789,"HOUSE",289000,68,1810,2,"Wuustwezel","2990","Bomendreef","24",4.5427028555101,51.38332138889,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2179789",NA
+"432",2141971,"HOUSE",795000,293,2222,4,"Schoten",NA,"Beukendreef","21",4.5438040011473,51.300226449044,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2141971",NA
+"433",2231734,"HOUSE",440000,161,688,2,"Bonheiden","2820","Molenberg","18",4.5489996234865,51.02094387709,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2231734",NA
+"434",2234479,"HOUSE",465000,331,1044,3,"Bonheiden","2820","Waversesteenweg","46",4.5501015231885,51.026573772079,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2234479",NA
+"435",2142965,"HOUSE",295000,150,495,NA,"Schoten","2900","Brechtsebaan","902",4.5503042148045,51.295119472206,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2142965",NA
+"436",2279953,"HOUSE",449000,146,181,2,"Lier","2500","David tenierslaan","107",4.5552793330114,51.129651459842,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2279953",NA
+"437",2246875,"HOUSE",185000,95,953,2,"Duffel","2570","Beukheuvel","26",4.5565268858731,51.088987275689,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2246875",NA
+"438",2276189,"HOUSE",284000,130,160,3,"Lier","2500","Acaciaplein","2",4.5572224600852,51.125935442532,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2276189",NA
+"439",2233423,"HOUSE",770000,303,1995,5,"Bonheiden","2820","Rijmenamseweg","51",4.5578240441168,51.020799532196,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2233423",NA
+"440",2293712,"HOUSE",450000,245,323,4,"Lier","2500","Vredelaan","15",4.5579141244754,51.133690229268,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2293712",NA
+"441",2138129,"HOUSE",795000,397,2053,6,"'s-Gravenwezel",NA,"Sint hubertuslaan","42",4.559699933461,51.253034754923,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2138129",NA
+"442",2284662,"LAND",179000,NA,503,NA,"Lier","2500","Kreeftstraat",NA,4.561037,51.14227,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2284662",NA
+"443",2115457,"HOUSE",399000,174,320,3,"Ranst","2520","Molenstraat","24",4.5621844115051,51.191335136594,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2115457",NA
+"444",2285633,"HOUSE",399000,202,105,3,"Lier","2500","Leopoldplein","6",4.5642293191679,51.13555462484,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2285633",NA
+"445",2381802,"HOUSE",549000,NA,3278.6575086638,4,"Sint-Katelijne-Waver","2861","Slameuterstraat","2",4.5654998826354,51.047019448372,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2381802",NA
+"446",2288452,"HOUSE",395000,360,184,3,"Lier","2500","Mechelsestraat","4",4.566300337619,51.13186075512,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2288452",NA
+"447",2284450,"HOUSE",279000,154,83,3,"Lier","2500","Kolveniersvest","59",4.5667088759452,51.131693141353,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2284450",NA
+"448",2281084,"HOUSE",525000,356,421,4,"Lier","2500","Florent van cauwenberghstraat","35",4.5670597250438,51.13130189074,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2281084",NA
+"449",2015218,"LAND",245000,NA,850,NA,"Brecht","2960","Dwarsdreef","21",4.5670853175108,51.317096295034,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2015218",NA
+"450",2281998,"HOUSE",319000,127,94,3,"Lier","2500","Guldensporenlaan","69",4.567622574012,51.140449353352,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2281998",NA
+"451",2284601,"HOUSE",230000,111,135.57660403336,2,"Lier","2500","Komeetstraat","48",4.5680462508229,51.140179152766,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2284601",NA
+"452",2114585,"HOUSE",634500,246,1101,3,"Ranst","2520","Laarstraat","22",4.5700843144515,51.193396473137,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2114585",NA
+"453",2283899,"HOUSE",484500,351,185,4,"Lier","2500","Kartuizersvest","78",4.5701298131843,51.134360186971,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2283899",NA
+"454",2281788,"HOUSE",699000,172,190,NA,"Lier","2500","Grote markt","6",4.5702564647551,51.130164849598,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2281788",NA
+"455",2290497,"HOUSE",509000,215,1070,2,"Lier","2500","Plashoevestraat","24",4.570762360797,51.145422226421,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2290497",NA
+"456",2293237,"HOUSE",349000,134,150,3,"Lier","2500","Van boeckellaan","58",4.5710783816973,51.138123856044,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2293237",NA
+"457",2133276,"HOUSE",770000,251,3004,4,"'s-Gravenwezel",NA,"Fortsteenweg","4",4.5713113791859,51.263683569267,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2133276",NA
+"458",2286320,"HOUSE",369000,126,115,4,"Lier","2500","Lispersteenweg","23",4.5721178161777,51.138598058215,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2286320",NA
+"459",2286672,"HOUSE",169000,99,98,3,"Lier","2500","Lispersteenweg","36",4.5732641344135,51.139564521045,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2286672",NA
+"460",2284075,"HOUSE",765000,505,324,8,"Lier",NA,"Kerkstraat","9",4.5736732630218,51.130777151571,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2284075",NA
+"461",2286243,"HOUSE",298000,259,351,4,"Lier","2500","Lispersteenweg","78",4.5740098004479,51.140385499279,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2286243",NA
+"462",2286477,"HOUSE",269000,117,100,3,"Lier","2500","Lispersteenweg","157",4.5742855638888,51.141337328993,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2286477",NA
+"463",2281142,"HOUSE",495000,421,2430,5,"Lier","2500","Frankenweg","15",4.5743064623904,51.147671362013,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2281142",NA
+"464",2286471,"HOUSE",205000,129,75,4,"Lier","2500","Lispersteenweg","232",4.5759080662446,51.144130518353,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2286471",NA
+"465",2119008,"HOUSE",549000,210,2321,3,"Ranst","2520","Zakstraat","48",4.5764572165822,51.197425029293,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2119008",NA
+"466",2291123,"HOUSE",289000,128,85,3,"Lier","2500","Rivierstraat","34",4.5767102090625,51.144758745023,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2291123",NA
+"467",2025377,"HOUSE",419000,135,1174,2,"Brecht","2960","Vogelkerslaan","58",4.5770689085559,51.314137822792,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2025377",NA
+"468",2287055,"HOUSE",349000,120,83,3,"Lier","2500","Lookstraat","62",4.5795548870976,51.13000173895,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2287055",NA
+"469",2019838,"HOUSE",385000,150.17,613,3,"Brecht","2960","Koekoeksdreef","43",4.5796604195334,51.327515624628,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2019838",NA
+"470",2375251,"HOUSE",270000,200,449.50015600055,2,"Sint-Katelijne-Waver","2861","Bosstraat","6",4.5811495524858,51.063512025658,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2375251",NA
+"471",2293311,"HOUSE",239000,135,80,4,"Lier","2500","Veemarkt","23",4.5830147730707,51.127815204299,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2293311",NA
+"472",2278003,"HOUSE",175000,61,85,1,"Lier","2500","Berlaarsesteenweg","27",4.5843601701509,51.128735209018,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2278003",NA
+"473",2285056,"HOUSE",255000,127,245,3,"Lier","2500","Kroonstraat","54",4.5846896239385,51.127117915585,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2285056",NA
+"474",2228336,"HOUSE",486000,163,304,3,"Bonheiden","2820","Brugstraat","1",4.585599685091,51.000855857721,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2228336",NA
+"475",2130827,"HOUSE",345000,136,417.38711083465,2,"Schilde","2970","August Dierckxlaan","11",4.5856794539456,51.236413436289,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2130827",NA
+"476",2230869,"HOUSE",310000,174,378,3,"Bonheiden","2820","Korte dreef","19",4.5861245898051,51.00358837649,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2230869",NA
+"477",2012508,"HOUSE",549000,115.33,1889,3,"Brecht","2960","Begonialaan","16",4.5862301012545,51.301726640519,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2012508",NA
+"478",2277740,"HOUSE",225000,109,98,3,"Lier","2500","Beemdstraat","25",4.586665490574,51.12968931998,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2277740",NA
+"479",2136840,"HOUSE",799000,200,489,3,"Schilde","2970","Oudebaan","63",4.5875601669095,51.244275251352,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2136840",NA
+"480",2114796,"HOUSE",320000,177,777,3,"Ranst","2520","Liersesteenweg","42",4.5876018999812,51.157320604401,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2114796",NA
+"481",2022143,"HOUSE",592000,182,1316.1571995765,3,"Brecht","2960","Pierrelaan","49",4.5885314304063,51.321808535459,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2022143",NA
+"482",2283460,"HOUSE",279000,114,145,2,"Lier","2500","Kanaalstraat","33",4.5886345116379,51.132990065392,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2283460",NA
+"483",2111764,"HOUSE",399000,136,614,2,"Ranst","2520","De fraulalaan","42",4.58909949999,51.215371530698,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2111764",NA
+"484",2181656,"HOUSE",385000,170,570,4,"Wuustwezel","2990","Dorpsstraat","14",4.5919550438941,51.388805166953,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2181656",NA
+"485",2231237,"HOUSE",330000,197,1500,3,"Bonheiden","2820","Lange dreef","119",4.5950170735203,51.009391102779,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2231237",NA
+"486",2140182,"HOUSE",375000,201.3,770.13470245712,2,"Schilde","2970","Zandhovensebaan","10",4.5951855085808,51.238412665259,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2140182",NA
+"487",2282423,"LAND",110000,NA,2366,NA,"Lier","2500","Heidebloem",NA,4.596936,51.14561,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2282423",NA
+"488",2115873,"HOUSE",369000,165,1068,3,"Ranst","2520","Oelegemsesteenweg","41",4.5978212221635,51.201147198746,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2115873",NA
+"489",2358364,"HOUSE",310000,232,255,3,"Putte","2580","Mechelbaan","654",4.5986703426592,51.04209399686,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2358364",NA
+"490",2113334,"HOUSE",415000,132,385,2,"Ranst","2520","Hoornveldstraat","9",4.5993204772824,51.209704588181,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2113334","new"
+"491",2135178,"HOUSE",349500,NA,1453,1,"Schilde","2970","Klein waterstraat","66",4.599864232581,51.257339686275,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2135178",NA
+"492",5615995,"HOUSE",485000,245,226,4,"Lier","2500","Bist","55",4.602512898197,51.14893379785,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5615995",NA
+"493",2277721,"HOUSE",325000,192,618,2,"Lier","2500","Beekstraat","5",4.6062923229042,51.096461081632,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2277721",NA
+"494",2285813,"HOUSE",289000,NA,654.34174442949,3,"Lier","2500","Liersebaan","19",4.60652310944,51.098676141308,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2285813",NA
+"495",2115945,"HOUSE",455000,178.6,390,3,"Ranst","2520","Oostmalsesteenweg","54",4.6121557146855,51.16583335431,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2115945",NA
+"496",2361620,"LAND",255000,NA,1330,NA,"Putte","2580","Zoetewei","97",4.6122739018459,51.069418679622,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2361620",NA
+"497",2180225,"HOUSE",749000,450,1263,8,"Wuustwezel","2990","Bredabaan","142",4.6136546226705,51.41233333551,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2180225",NA
+"498",2199696,"HOUSE",619500,362,2398.8944829666,4,"Zoersel","2980","Kapellei","227",4.6142525825949,51.253671651597,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2199696",NA
+"499",2350560,"HOUSE",549000,230,1077,3,"Nijlen","2560","Salvatorbaan","62",4.6170082996401,51.144338178314,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2350560",NA
+"500",2201020,"LAND",49900,NA,1403,NA,"Zoersel","2980","Lemmekensbaan","64",4.6183274494621,51.239334790778,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2201020",NA
+"501",2139887,"HOUSE",449000,138,1400,4,"Schilde","2970","Vraagheideweg","33",4.6185535882867,51.291764349985,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2139887",NA
+"502",2139734,"HOUSE",330000,82,675,2,"Schilde","2970","Vijverlaan","33",4.6206231866351,51.291297553569,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2139734",NA
+"503",2359405,"HOUSE",219000,144,928,2,"Putte","2580","Pachtersdreef","69",4.6208559514712,51.057891594127,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2359405",NA
+"504",2351288,"HOUSE",310000,145,940,2,"Nijlen","2560","Stationssteenweg","204",4.6218985346943,51.148683526363,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2351288",NA
+"505",2351741,"HOUSE",247000,83,138,1,"Nijlen","2560","Toekomststraat","13",4.6257459070579,51.140419289073,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2351741",NA
+"506",2199585,"HOUSE",485000,220,2477,3,"Zoersel","2980","Kapellei","101",4.6284230144226,51.25989105752,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2199585",NA
+"507",2200897,"HOUSE",485000,149.59,794,4,"Zoersel","2980","Kwikaard","43",4.6291616977314,51.266141592648,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2200897",NA
+"508",2202236,"HOUSE",619000,193,1029,3,"Zoersel","2980","Paddenklank","18",4.6359169840023,51.238744693604,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2202236",NA
+"509",2190856,"HOUSE",574000,315,775.56821261558,4,"Zandhoven","2240","Hogeweg","45",4.6365136942591,51.200630830825,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2190856",NA
+"510",2196213,"HOUSE",329000,120,727,2,"Zoersel","2980","D'eike","26",4.6398899445315,51.24329304153,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2196213",NA
+"511",2016092,"HOUSE",475000,123.68,485,2,"Brecht","2960","Eyndovensteenweg","40",4.6404762188002,51.34485777818,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2016092",NA
+"512",2224880,"HOUSE",370000,NA,244.85642563581,2,"Berlaar","2590","Leliestraat","11",4.6415473988331,51.115712746237,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2224880",NA
+"513",2226927,"HOUSE",289000,170,402,2,"Berlaar","2590","Stationsstraat","163",4.6423621043225,51.113806366327,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2226927",NA
+"514",2200940,"HOUSE",107500,186,1255,2,"Zoersel","2980","Lage weg","6",4.6445244227362,51.245768387799,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2200940",NA
+"515",2205007,"HOUSE",369000,133,260,3,"Zoersel","2980","Zoerselsteenweg","71",4.644616349045,51.266736938329,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2205007",NA
+"516",2224421,"HOUSE",265000,102,85,2,"Berlaar","2590","Kapellebaan","66",4.648490902929,51.114989770252,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2224421",NA
+"517",2226971,"HOUSE",365000,135,2701.6075814841,3,"Berlaar",NA,"Stationsstraat","33",4.6490086534195,51.115977298551,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2226971",NA
+"518",2195159,"HOUSE",355000,105,500,3,"Zoersel","2980","Berkemei","19",4.6490810016877,51.243746497893,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2195159",NA
+"519",2194137,"LAND",215000,NA,1058,NA,"Viersel",NA,"Venstraat","35",4.6503571175767,51.193117069782,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2194137",NA
+"520",2354534,"HOUSE",525000,260,898,3,"Putte","2580","Elzenstraat ","2",4.6542518365984,51.058955454569,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2354534",NA
+"521",2199219,"HOUSE",590000,133,2096,3,"Zoersel","2980","Hooidonkeinde","1",4.6543874030162,51.241651479761,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2199219",NA
+"522",2226445,"HOUSE",459000,226,1265.843941724,4,"Berlaar","2590","Smidstraat","283",4.6554554394462,51.105195375829,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2226445",NA
+"523",2223659,"HOUSE",469000,246,1308,3,"Berlaar","2590","Heidestraat","111",4.6564159160162,51.085745655225,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2223659",NA
+"524",2226283,"HOUSE",249000,220,907,4,"Berlaar","2590","Schoolstraat","38",4.6576367403407,51.115948301893,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2226283",NA
+"525",2194931,"HOUSE",569000,250,796,4,"Zoersel","2980","Antwerpsedreef","8",4.6579787786621,51.266830190355,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2194931",NA
+"526",2203096,"HOUSE",669000,270,2339,4,"Zoersel","2980","Sinjorendreef","33",4.6620576762637,51.260733825909,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2203096",NA
+"527",2220100,"HOUSE",499900,175,3416,3,"Malle","2390","Oude kastanjedreef","6",4.6635803991813,51.279427699981,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2220100",NA
+"528",2346780,"HOUSE",385000,205,370,4,"Nijlen","2560","Kapellebaan","113",4.6643033745751,51.160769653008,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2346780",NA
+"529",2224090,"HOUSE",219000,101,240,2,"Berlaar","2590","Itegembaan","135",4.6655579314645,51.112523203964,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2224090",NA
+"530",2197003,"HOUSE",675000,NA,1717,4,"Zoersel","2980","Essendreef","3",4.6672774706024,51.272548473191,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2197003",NA
+"531",2355500,"LAND",220000,NA,293,NA,"Putte","2580","Hoogstraat","36",4.6675405775698,51.058055935464,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2355500",NA
+"532",2220047,"HOUSE",699900,160,4500,3,"Malle","2390","Oude baan","100",4.6676013389735,51.292249160774,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2220047",NA
+"533",2193812,"HOUSE",549900,140,1627,3,"Zandhoven","2243","Vaarheuvel","6",4.6690396519617,51.184960054432,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2193812",NA
+"534",2225393,"LAND",75000,NA,7722,NA,"Berlaar","2590","Melkouwensteenweg",NA,4.670465,51.08773,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2225393",NA
+"535",2223631,"HOUSE",399000,154,1256,4,"Berlaar","2590","Heideroosstraat","13",4.6713620612472,51.08291508281,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2223631",NA
+"536",2353432,"HOUSE",235000,150,595,3,"Putte","2580","Berkenstraat","10",4.6716545219165,51.064727998528,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2353432",NA
+"537",2351045,"HOUSE",279000,171,424,3,"Nijlen","2560","Spoorweglei","46",4.6721245651097,51.159872181227,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2351045",NA
+"538",2355072,"HOUSE",268000,184,560,3,"Putte","2580","Heiststeenweg","37",4.6736458923691,51.058681048938,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2355072",NA
+"539",2022852,"HOUSE",299000,196.57,241,3,"Brecht","2960","Rozenstraat","4",4.676392490543,51.34672472411,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2022852",NA
+"540",2350318,"HOUSE",489000,182,210.11618224112,3,"Nijlen","2560","Rector de ramstraat","32",4.6766798390975,51.159036625815,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2350318",NA
+"541",2022811,"LAND",189000,NA,408,NA,"Brecht","2960","Rozenstraat","3",4.676885,51.34663,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2022811",NA
+"542",2258538,"LAND",219000,NA,1000,NA,"Heist-op-den-Berg","2223","Galgestraat",NA,4.677133,51.04177,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2258538","new"
+"543",2197459,"HOUSE",685000,284,1260,4,"Zoersel","2980","Goudveld","117",4.6774681379818,51.265206133078,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2197459",NA
+"544",2347075,"HOUSE",475000,216,963,5,"Nijlen","2560","Katerstraat","21",4.6786544845081,51.167289496629,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2347075",NA
+"545",2193368,"LAND",35000,NA,3198,NA,"Zandhoven","2240","Schegel","52",4.680604,51.23578,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2193368",NA
+"546",2220801,"HOUSE",749900,252,1500,3,"Malle","2390","Scherpenberg","42",4.6806549555066,51.291294625155,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2220801",NA
+"547",10175295,"HOUSE",409000,NA,854,3,"Heist-op-den-Berg","2222","Isschotweg","194 A",4.6817819,51.0862103,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10175295",NA
+"548",2216770,"HOUSE",254900,165,590,3,"Malle","2390","Brechtsesteenweg","29",4.6819742310169,51.298830314461,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2216770",NA
+"549",2217824,"LAND",149900,NA,8320,NA,"Malle","2390","Hallebaan b","102",4.6827062505615,51.287418800531,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2217824",NA
+"550",5602488,"HOUSE",559900,180,492,3,"Malle","2390","Ticheltij","20",4.6833259324836,51.297525876431,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5602488",NA
+"551",2346405,"HOUSE",210000,118,960,2,"Nijlen","2560","Herenthoutsesteenweg","122",4.6870612212084,51.152512466593,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2346405",NA
+"552",5177816,"LAND",195000,NA,973,NA,"Heist-op-den-Berg","2223","Notelaarlei","29",4.689616,51.024593,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5177816",NA
+"553",2343637,"HOUSE",284000,177,255,2,"Nijlen","2560","Bouwelsesteenweg","182",4.6934743576773,51.16532105588,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2343637",NA
+"554",2260355,"HOUSE",299000,220,545,3,"Heist-op-den-Berg","2220","Heistse hoekstraat","27",4.6981050167338,51.057747066726,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2260355",NA
+"555",2192352,"HOUSE",374500,149,818.3508704463,3,"Zandhoven","2242","Molenheide ","86",4.6984310756131,51.226198668814,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2192352",NA
+"556",10132096,"HOUSE",409000,NA,1042,3,"Heist-op-den-Berg","2222","Bevelsesteenweg","112",4.698847,51.1166611,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10132096",NA
+"557",2221960,"HOUSE",355000,179,928,3,"Malle","2390","Zandstraat","69",4.6992547861274,51.292924955913,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2221960",NA
+"558",10277778,"HOUSE",379000,NA,487,3,"Heist-op-den-Berg","2222","Bevelsesteenweg","80",4.7021043,51.1129524,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10277778",NA
+"559",2266234,"HOUSE",420000,288,1385,3,"Heist-op-den-Berg","2220","Lerrekensstraat","18",4.7057666314029,51.067522894347,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2266234",NA
+"560",10259481,"HOUSE",525000,165,824,4,"Heist-op-den-Berg","2222","Dennenlaan","13",4.7097038,51.0944348,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10259481",NA
+"561",NA,"Huizen",170000,NA,315,3,"Heist-op-den-Berg","2222","Bevelsesteenweg 11",NA,4.7109857,51.105473,"https://immo.notaris.be/nl/goed-onderhouden-woning-met-tuin/te-koop/11-bevelsesteenweg-2222-heist-op-den-berg/103921",NA
+"562",2268263,"HOUSE",465000,283,780,4,"Heist-op-den-Berg","2220","Moleneinde","14",4.7112488844894,51.082947466211,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2268263",NA
+"563",5634125,"HOUSE",445000,114,122,3,"Zoersel","2980","Zandstraat","18",4.7120280290699,51.265926121269,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5634125",NA
+"564",2273369,"HOUSE",398000,197,254.71584795602,2,"Heist-op-den-Berg","2220","Stationsstraat","20",4.7134079074032,51.077079376683,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2273369",NA
+"565",2196434,"HOUSE",399000,247,249,5,"Zoersel","2980","Dorp","70",4.7139280978527,51.270095732688,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2196434",NA
+"566",2203782,"HOUSE",789000,330,638,5,"Zoersel","2980","Tortelstraat","3",4.7147895621109,51.279235567941,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2203782",NA
+"567",5193923,"HOUSE",349000,130,3054,3,"Heist-op-den-Berg","2222","Rozendaalstraat","7",4.714901,51.10597,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5193923",NA
+"568",2451265,"HOUSE",549000,184,676,3,"Grobbendonk","2280","Nederheide","1",4.715346433076,51.196768973696,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2451265",NA
+"569",10283167,"HOUSE",649000,389,721,4,"Heist-op-den-Berg","2222","Heibergstraat","31",4.7156826,51.103647,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10283167",NA
+"570",2200410,"HOUSE",695000,296,3233,4,"Zoersel","2980","Kievitheide","91",4.7169305402754,51.281308341344,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2200410",NA
+"571",2188673,"HOUSE",439000,207,598,5,"Zandhoven","2243","Berkemei","28",4.7169366387449,51.205344767992,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2188673",NA
+"572",2268418,"HOUSE",625000,274,743,3,"Heist-op-den-Berg",NA,"Molenstraat","27",4.7169795930103,51.07876555891,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2268418",NA
+"573",2449026,"HOUSE",470000,188,854,3,"Grobbendonk","2280","Eikenlei","88",4.7170832251985,51.189106137444,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2449026",NA
+"574",2448913,"HOUSE",575000,294,2713,5,"Grobbendonk","2280","Eekhoutstraat","13",4.7178139504644,51.192216345858,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2448913",NA
+"575",2268858,"HOUSE",249000,137,743,3,"Heist-op-den-Berg","2220","Neerweg","24",4.7182219190839,51.080686935782,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2268858",NA
+"576",2197482,"HOUSE",499000,195,1353,3,"Zoersel","2980","Graffendonk","60",4.7185831804342,51.267814160758,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2197482",NA
+"577",2269604,"HOUSE",379000,271,371,3,"Heist-op-den-Berg","2220","Oude gendarmeriestraat","21",4.7201599840073,51.074892869393,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2269604",NA
+"578",10318939,"HOUSE",399000,383,1062,3,"Heist-op-den-Berg","2222","Heibergstraat","1",4.7203179,51.1022753,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10318939",NA
+"579",2255055,"HOUSE",349000,170,793,3,"Heist-op-den-Berg","2220","Averegtenlaan","28",4.7203278913556,51.083676147756,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2255055",NA
+"580",6187747,"HOUSE",538000,135,349,4,"Heist-op-den-Berg","2220","Populierenhof","9",4.7203286942534,51.071370742879,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6187747",NA
+"581",2254992,"HOUSE",469000,220,643,3,"Heist-op-den-Berg","2222","Anjerstraat","9",4.7217975841365,51.104231881061,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2254992",NA
+"582",10320622,"HOUSE",469000,220,643,3,"Heist-op-den-Berg","2222","Anjerstraat","9",4.7218302,51.1042207,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10320622",NA
+"583",2451224,"LAND",369000,NA,4116,NA,"Grobbendonk","2280","Nachtegalendreef","56",4.7230947066596,51.17728686492,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2451224","new"
+"584",2453124,"HOUSE",449000,217,696,3,"Grobbendonk","2280","Waterlaatstraat","7",4.7232104955441,51.197015134461,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2453124",NA
+"585",2451260,"LAND",359000,NA,3953,NA,"Grobbendonk","2280","Nachtegalendreef","54",4.7234696722484,51.177038723477,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2451260","new"
+"586",2254722,"HOUSE",375000,247,495,4,"Heist-op-den-Berg","2220","Arthur vereeckestraat","33",4.7237159929018,51.079042922339,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2254722",NA
+"587",2265272,"HOUSE",269000,122,320,2,"Heist-op-den-Berg","2220","Lange rechtestraat","8",4.725944953502,51.086327298351,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2265272",NA
+"588",2219107,"HOUSE",599900,205,869,4,"Malle","2390","Klaprooslaan","37",4.7262598083127,51.308156412539,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2219107",NA
+"589",2260588,"HOUSE",379000,190,578,3,"Heist-op-den-Berg","2222","Heksestraat","8",4.7270142471443,51.106478817127,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2260588",NA
+"590",10327332,"HOUSE",379000,190,578,3,"Heist-op-den-Berg","2222","Heksestraat","8",4.7270893,51.1064143,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10327332","new"
+"591",2222039,"HOUSE",519900,239,443,3,"Malle","2390","Zonnedauwlaan","28",4.72758,51.30671,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2222039",NA
+"592",2272848,"HOUSE",625000,385,450,4,"Heist-op-den-Berg","2220","Sint-Guibertusplein","13",4.7283913023988,51.102848319815,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2272848",NA
+"593",10005453,"HOUSE",349000,NA,490,2,"Heist-op-den-Berg","2222","Kerkstraat","93",4.7285353,51.1085041,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10005453",NA
+"594",2267596,"HOUSE",699000,153,1296,3,"Heist-op-den-Berg",NA,"Mechelbaan","153",4.7287849744962,51.049507767006,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2267596",NA
+"595",6191896,"HOUSE",519900,260,399,3,"Malle","2390","Zonnedauwlaan","26",4.7289049,51.3076421,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6191896",NA
+"596",10312327,"HOUSE",349000,130,3054,3,"Heist-op-den-Berg","2222","Rozendaalstraat","7",4.72927,51.10321,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10312327",NA
+"597",2270738,"HOUSE",649000,354,5223.3145482425,4,"Heist-op-den-Berg","2220","Paul Van Roosbroecklaan ","70",4.7330502328431,51.068486502463,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2270738",NA
+"598",2264875,"HOUSE",548000,168,1395.5625324063,3,"Heist-op-den-Berg","2220","L. Carréstraat ","48",4.7332889049157,51.093999392043,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2264875",NA
+"599",2267093,"HOUSE",364000,206,546.74957459234,2,"Heist-op-den-Berg","2220","Lostraat","136",4.7338613185144,51.060013788089,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2267093",NA
+"600",2218122,"HOUSE",319900,115,220.64239569358,2,"Malle","2390","Herentalsebaan","9",4.7339123838771,51.299231554794,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2218122",NA
+"601",2451994,"HOUSE",449000,213,414,3,"Grobbendonk","2280","Quinten matsyslaan","30",4.7344892986703,51.192225226106,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2451994",NA
+"602",2451136,"HOUSE",545000,268,985,5,"Grobbendonk","2288","Merellaan","2",4.7364478405822,51.16961805716,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2451136",NA
+"603",2260703,"HOUSE",249000,93,612,4,"Heist-op-den-Berg","2220","Herentalsesteenweg","42",4.7367120526325,51.075675530583,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2260703",NA
+"604",2221745,"HOUSE",745000,400,1811,5,"Malle","2390","Turnhoutsebaan","34",4.7371939036906,51.300837089065,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2221745",NA
+"605",2218153,"LAND",229000,NA,643,NA,"Oostmalle",NA,"Hoogstraatsebaan","161",4.737373,51.312237,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2218153",NA
+"606",2448128,"HOUSE",349000,105,1334.3480819496,2,"Grobbendonk","2280","Bloktstraat","20",4.7379094898222,51.185739857124,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2448128",NA
+"607",2221272,"HOUSE",399900,130,879,2,"Malle","2390","Smekenstraat","15",4.7397485079362,51.304348876477,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2221272",NA
+"608",2452648,"HOUSE",269000,109,446,2,"Grobbendonk","2288","Ter duinen","7",4.7404487126297,51.170372425802,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2452648",NA
+"609",2451438,"HOUSE",598000,254,700,3,"Grobbendonk","2288","Nieuwbaan","19",4.7411461309989,51.16814748945,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2451438",NA
+"610",2220602,"HOUSE",599900,240,1400,4,"Malle","2390","Salphensebaan","22",4.7416486053708,51.291027837009,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2220602",NA
+"611",2448022,"HOUSE",375000,158,919,2,"Grobbendonk","2280","Bevrijdingsstraat","7",4.742072364597,51.185895225952,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2448022",NA
+"612",2452326,"HOUSE",798000,473,1303,5,"Grobbendonk","2280","Schransstraat","44",4.7425000828596,51.19338168724,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2452326",NA
+"613",2452570,"HOUSE",599000,276,666,6,"Grobbendonk","2288","Stationlei","6",4.7436294420856,51.171494125105,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2452570",NA
+"614",2472389,"HOUSE",398000,173,671,3,"Herenthout","2270","Punt","17",4.7451734006438,51.136352732197,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2472389",NA
+"615",2569938,"HOUSE",595000,326,1007.8991277339,4,"Rijkevorsel","2310","Oostmalsesteenweg","295",4.7452306245522,51.328156269948,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2569938","new"
+"616",5632823,"HOUSE",420000,125,600,3,"Meer",NA,"Meerseweg","107",4.7481019086052,51.43457504587,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5632823",NA
+"617",NA,"Huizen",270000,NA,505,4,"Herenthout","2270","Astridlaan 7",NA,4.748434,51.138355,"https://immo.notaris.be/nl/woning-half-open/te-koop/7-astridlaan-2270-herenthout/100935",NA
+"618",2485897,"HOUSE",275000,173,510,3,"Hoogstraten","2320","Loenhoutseweg","69",4.7513847867274,51.396043672287,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2485897",NA
+"619",NA,"Huizen",190000,NA,400,3,"Herenthout","2270","Gelderstraat 1",NA,4.751438,51.141064,"https://immo.notaris.be/nl/woning-hob/te-koop/1-gelderstraat-2270-herenthout/102783",NA
+"620",2485945,"HOUSE",262500,172,395,2,"Hoogstraten","2320","Loenhoutseweg","67",4.7514815910205,51.395963102729,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2485945",NA
+"621",2469770,"HOUSE",699000,440,1671,4,"Herenthout","2270","Canadadreef","38",4.7539073821683,51.113822818425,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2469770",NA
+"622",2485834,"HOUSE",549000,NA,711,4,"Hoogstraten","2320","Lodewijk de konincklaan","367",4.7560927251078,51.392885408038,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2485834",NA
+"623",2472448,"HOUSE",219000,150,570,3,"Herenthout","2270","Ristenstraat","19",4.7567640100408,51.143560972781,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2472448",NA
+"624",2592389,"LAND",175000,NA,372,NA,"Vorselaar","2290","Niemandshoek","13",4.7583562280077,51.216350988302,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2592389","new"
+"625",2471820,"HOUSE",359000,192.5,227.74626253266,3,"Herenthout","2270","Molenstraat","27",4.7585721450119,51.140118218331,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2471820",NA
+"626",10313808,"HOUSE",549000,198,675,3,"Vorselaar","2290","Molenbaan","73",4.7593405,51.2091628,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10313808",NA
+"627",2592144,"HOUSE",549000,198,675,3,"Vorselaar","2290","Molenbaan","73",4.7594285685243,51.209087868657,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2592144",NA
+"628",2262653,"HOUSE",325000,329,3500,3,"Heist-op-den-Berg","2222","Itegemseweg","120",4.7602461258007,51.101036794192,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2262653",NA
+"629",10026845,"HOUSE",325000,329,3500,3,"Heist-op-den-Berg","2222","Itegemseweg","120",4.7602544,51.1010249,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10026845",NA
+"630",10237928,"HOUSE",595000,310,860,3,"Vorselaar","2290","Klissenhoek","25",4.7606531,51.2127138,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10237928",NA
+"631",5809518,"HOUSE",279000,139,272,3,"Herenthout","2270","Bergense steenweg","24",4.7617838884943,51.143778784112,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5809518",NA
+"632",2266790,"HOUSE",795000,338,4174,4,"Heist-op-den-Berg","2221","Liersesteenweg","36",4.7630957853541,51.036161785395,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2266790",NA
+"633",10290711,"HOUSE",308000,211,525,2,"Vorselaar","2290","Kempenlaan","60",4.7633129,51.2014383,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10290711",NA
+"634",10327329,"HOUSE",495000,228,1820,4,"Heist-op-den-Berg","2222","Itegemseweg","125",4.7640028,51.1004429,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10327329","new"
+"635",2262551,"HOUSE",495000,228,1820,4,"Heist-op-den-Berg","2222","Itegemseweg","125",4.7640752162432,51.100410783723,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2262551",NA
+"636",2485546,"HOUSE",499000,257.46,320,3,"Hoogstraten","2320","Leemstraat","26",4.7647586301319,51.405983633127,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2485546",NA
+"637",5106786,"HOUSE",535000,300,375,3,"Minderhout",NA,"Vekenakker","7",4.7651886373441,51.422023308699,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5106786",NA
+"638",2571230,"HOUSE",425000,195,890,3,"Rijkevorsel","2310","Stevennekens","2",4.767741873788,51.345408114252,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2571230",NA
+"639",10112531,"HOUSE",259000,186,697,3,"Vorselaar","2290","Lepelstraat","51",4.7703904,51.1991863,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10112531",NA
+"640",10191873,"HOUSE",495000,150,328,3,"Vorselaar","2290","Dijkbaan","9,9",4.7723362,51.1988727,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10191873",NA
+"641",10204071,"HOUSE",495000,150,325,3,"Vorselaar","2290","Dijkbaan","9,7",4.7723634,51.198996,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10204071",NA
+"642",2571092,"HOUSE",249000,144,330,4,"Rijkevorsel","2310","Stevennekens","123",4.7733803831388,51.333680336666,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2571092",NA
+"643",10293573,"HOUSE",599000,216,350,3,"Vorselaar","2290","Markt","17",4.7734357,51.201439,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10293573",NA
+"644",2591922,"HOUSE",599000,216,350,3,"Vorselaar","2290","Markt","17",4.7734875755231,51.20128623149,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2591922",NA
+"645",2256170,"HOUSE",532600,180,3408.5821496081,4,"Heist-op-den-Berg","2221","Blindejennestraat","32",4.7763383195149,51.036740310009,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2256170",NA
+"646",NA,"Huizen",325000,NA,753,4,"Vorselaar","2290","Riemenstraat 65",NA,4.77741,51.205006,"https://immo.notaris.be/nl/woonhuis-met-studio-kantoor/te-koop/65-riemenstraat-2290-vorselaar/103370",NA
+"647",5608868,"LAND",210000,NA,958,NA,"Beerse","2340","Lepelstraat","1",4.7775939395762,51.29502624912,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5608868",NA
+"648",10291937,"HOUSE",289000,156,645,3,"Vorselaar","2290","Rozenlaan","3",4.7792935,51.204792,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10291937",NA
+"649",2593069,"HOUSE",289000,156,645,3,"Vorselaar","2290","Rozenlaan","3",4.7796726359344,51.20517939898,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2593069",NA
+"650",NA,"Huizen",325000,NA,853,4,"Lille","2275","Beulk 71",NA,4.7797,51.26218,"https://immo.notaris.be/nl/ruime-woning-met-garage/te-koop/71-beulk-2275-lille/103978",NA
+"651",10305201,"HOUSE",499000,242,780,3,"Vorselaar","2290","Tuinweg","27",4.7805446,51.2042228,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10305201",NA
+"652",2416538,"HOUSE",499000,162,1817,3,"Beerse","2340","Den abt","34",4.7806470291191,51.310668570799,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2416538",NA
+"653",2590500,"HOUSE",749000,353,1063,4,"Vorselaar","2290","Dennenlaan","13",4.7824653789005,51.207696128125,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2590500",NA
+"654",2451767,"LAND",259000,NA,781,NA,"Grobbendonk",NA,"Parklaan","1",4.7826293893557,51.174276444773,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2451767",NA
+"655",2469123,"HOUSE",315000,139,3565,3,"Herenthout","2270","Bergen","8",4.7827242202748,51.149706670618,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2469123",NA
+"656",10323307,"HOUSE",749000,353,1063,4,"Vorselaar","2290","Dennenlaan","13",4.7828053,51.2076739,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10323307",NA
+"657",10291949,"HOUSE",319000,169,507,5,"Vorselaar","2290","Salvialaan","14",4.7829918,51.2035417,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10291949",NA
+"658",2593087,"HOUSE",319000,169,507,5,"Vorselaar","2290","Salvialaan","14",4.7830664123694,51.203594890889,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2593087",NA
+"659",2491621,"HOUSE",375000,253,283,3,"Hulshout","2235","Grote baan","41",4.7837035833153,51.077804873975,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2491621",NA
+"660",9591484,"HOUSE",546500,175,938,3,"Heist-op-den-Berg","2222","Heerweg","12",4.7849561,51.1044136,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/9591484",NA
+"661",2415405,"HOUSE",475000,239,2637,6,"Beerse","2340","Antwerpseweg","218",4.7853649505991,51.301980817788,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2415405",NA
+"662",5193958,"LAND",219000,NA,673,NA,"Beerse","2340","Peggerstraat","33",4.785991,51.29565,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5193958",NA
+"663",10041183,"HOUSE",398000,202,353,4,"Heist-op-den-Berg","2222","Lindestraat","32",4.7859995,51.1064335,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10041183",NA
+"664",10292882,"HOUSE",398000,202,353,4,"Heist-op-den-Berg","2222","Lindestraat","32",4.7860266,51.1064435,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10292882",NA
+"665",6077719,"HOUSE",270000,67,642,1,"Heist-op-den-Berg","2221","Rietweg","6",4.7890097670416,51.041659841555,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6077719",NA
+"666",10313709,"HOUSE",590000,210,590,3,"Heist-op-den-Berg","2222","Kruisstraat","33",4.7893531,51.1011262,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10313709",NA
+"667",2505928,"HOUSE",699000,435,1814.9080915339,3,"Lille","2275","Gebroeders de winterstraat","33",4.7903973934263,51.262534500255,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2505928",NA
+"668",6074677,"HOUSE",590000,210,590,3,"Heist-op-den-Berg","2222","Kruisstraat","33",4.7908862844997,51.099934190401,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6074677",NA
+"669",10313294,"HOUSE",485000,228,579,3,"Heist-op-den-Berg","2222","Pompoenstraat","56",4.7911887,51.0998437,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10313294",NA
+"670",2416495,"HOUSE",399000,280,983,5,"Beerse","2340","Den abt","154",4.7924013841981,51.31236383038,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2416495",NA
+"671",2567361,"HOUSE",315000,162,403.09187368288,3,"Rijkevorsel","2310","Eikendreef","83",4.7930281401066,51.334406957061,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2567361",NA
+"672",2491977,"HOUSE",299000,177,885,3,"Hulshout","2235","Grote baan","158",4.7940767043887,51.074430791372,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2491977",NA
+"673",10292328,"HOUSE",389000,188,364,4,"Heist-op-den-Berg","2222","Gildestraat","2,lot 12",4.7950206,51.1000984,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10292328",NA
+"674",10318467,"HOUSE",394000,188,305,4,"Heist-op-den-Berg","2222","Gildestraat","2,lot 11",4.7950825,51.1001094,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10318467",NA
+"675",2490317,"HOUSE",359000,150,375,3,"Hoogstraten","2323","Worteldorp","56",4.7988300080484,51.395545094983,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2490317",NA
+"676",2419579,"HOUSE",219000,148,774,4,"Beerse","2340","Korte kwikstraat","15",4.8000614152387,51.331081434639,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2419579",NA
+"677",2483914,"HOUSE",499000,226,1052,5,"Meerle",NA,"Heibergstraat","20",4.8005533100497,51.46896186961,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2483914",NA
+"678",2511509,"HOUSE",499000,262,1070,4,"Lille","2275","Zand","32",4.800626216904,51.266579426551,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2511509",NA
+"679",2268450,"LAND",195000,NA,794,NA,"Heist-op-den-Berg","2222","Morkhovenseweg",NA,4.801731,51.10985,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2268450",NA
+"680",2491335,"HOUSE",680000,400,1136,5,"Houtvenne",NA,"Elsbroekstraat","14",4.8063225642595,51.037211722797,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2491335",NA
+"681",2493750,"HOUSE",349000,168,256.5493925648,4,"Hulshout","2235","Langestraat","8",4.8077092302431,51.041276572535,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2493750",NA
+"682",2504278,"HOUSE",650000,253,2168,3,"Lille","2275","Beukenlaan","37",4.8104108746816,51.227679606787,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2504278",NA
+"683",2468152,"HOUSE",520000,330,1907,4,"Herentals",NA,"Wuytsbergen","162",4.81144,51.17939,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2468152",NA
+"684",2491876,"HOUSE",315000,156,569,3,"Hulshout","2235","Grote baan","354",4.8142909952843,51.070772267495,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2491876",NA
+"685",2473965,"LAND",89000,NA,9637,NA,"Herselt","2230","Begijnendijksesteenweg","46",4.8147774857006,51.028939683259,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2473965",NA
+"686",10299024,"HOUSE",249000,149,838,3,"Herentals","2200","Kapelstraat","7",4.8150212,51.1187855,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10299024","new"
+"687",2458709,"HOUSE",249000,149,838,3,"Herentals","2200","Kapelstraat","7",4.8150587625287,51.118632722559,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2458709",NA
+"688",5122638,"HOUSE",449000,152,368,4,"Hulshout",NA,"Tiendenstraat","8",4.8157814049926,51.072078883306,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5122638",NA
+"689",6028469,"HOUSE",499000,263,792,3,"Herentals","2200","Wiekevorstseweg","12",4.815897090743,51.118433082211,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6028469",NA
+"690",2511247,"HOUSE",725000,455,2399,5,"Lille","2275","Wechelsebaan","99",4.8168444640842,51.249214517385,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2511247",NA
+"691",10324644,"HOUSE",489000,200,863,3,"Herentals","2200","Koeterstraat","31",4.8198291,51.1772395,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10324644",NA
+"692",2461606,"HOUSE",299000,128,142,2,"Herentals","2200","Markgravenstraat","156",4.8200067003435,51.176351037539,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2461606",NA
+"693",10308556,"HOUSE",299000,128,142,2,"Herentals","2200","Markgravenstraat","156",4.820133,51.1762751,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10308556","new"
+"694",2454632,"LAND",360000,NA,1307,NA,"Herentals","2200","Bornstraat","6",4.820609416008,51.19394923132,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2454632",NA
+"695",2457723,"HOUSE",595000,246,1518,4,"Herentals","2200","Herenthoutseweg","167",4.822497,51.16263,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2457723",NA
+"696",10325317,"HOUSE",595000,246,1518,4,"Herentals","2200","Herenthoutseweg","167",4.8225321,51.1627316,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10325317",NA
+"697",10293683,"HOUSE",379000,385,480,3,"Herentals","2200","Lierseweg","139",4.8234263,51.1751134,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10293683","new"
+"698",2461092,"HOUSE",379000,385,480,3,"Herentals","2200","Lierseweg","139",4.8235112099624,51.174927955614,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2461092",NA
+"699",5991993,"HOUSE",289000,147,160,3,"Herentals","2200","Bolwerkstraat","84",4.8236865289364,51.176729841119,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5991993",NA
+"700",10320875,"HOUSE",289000,147,160,3,"Herentals","2200","Bolwerkstraat","84",4.8236874,51.1767304,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10320875",NA
+"701",2461062,"HOUSE",525000,178,330,3,"Herentals","2200","Lierseweg","110",4.8245479358609,51.175950026596,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2461062",NA
+"702",10293685,"HOUSE",525000,178,330,3,"Herentals","2200","Lierseweg","110",4.8247009,51.175786,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10293685","new"
+"703",10303569,"HOUSE",179000,125,300,3,"Herentals","2200","Markgravenstraat","71",4.8248885,51.1782595,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10303569","new"
+"704",10222755,"HOUSE",359000,225,4300,4,"Vorselaar","2290","Poederleeseweg","1",4.8255016,51.2173263,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10222755",NA
+"705",10293678,"HOUSE",179000,122,260,3,"Herentals","2200","Markgravenstraat","45",4.8257817,51.1784764,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10293678","new"
+"706",2461250,"HOUSE",179000,122,260,3,"Herentals","2200","Markgravenstraat","45",4.825817,51.17837,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2461250",NA
+"707",2518190,"HOUSE",299000,150,1853,3,"Merksplas","2330","Kapelstraat","8",4.826116861812,51.354115116791,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2518190",NA
+"708",2467778,"HOUSE",225000,125,688,2,"Herentals","2200","Watervoort","11",4.8261187809275,51.198851183344,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2467778",NA
+"709",NA,"Huizen",125000,NA,95,2,"Herentals","2200","Markgravenstraat 26",NA,4.8269157,51.178616,"https://immo.notaris.be/nl/op-te-frissen-woning/te-koop/26-markgravenstraat-2200-herentals/102935",NA
+"710",10292378,"HOUSE",449000,471,514,3,"Herentals","2200","Olmenlaan","7, A",4.827052,51.162946,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10292378",NA
+"711",10292377,"HOUSE",279000,165,335,3,"Herentals","2200","Olmenlaan","7",4.8270586,51.1630002,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10292377",NA
+"712",2463254,"HOUSE",279000,165,335,3,"Herentals","2200","Olmenlaan","7",4.8271484687885,51.163040364565,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2463254",NA
+"713",2463258,"HOUSE",449000,471,514,3,"Herentals","2200","Olmenlaan","7",4.8271587246505,51.162954729767,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2463258",NA
+"714",NA,"Huizen",3e+05,NA,722,3,"Herentals","2200","Scheppersstraat 56",NA,4.8273544,51.171482,"https://immo.notaris.be/nl/vrijstaande-woning-met-tuin/te-koop/56-scheppersstraat-2200-herentals/104071",NA
+"715",2466432,"HOUSE",299000,146,183,3,"Herentals","2200","Stationsstraat","6",4.8280587358546,51.179308777334,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2466432",NA
+"716",2603453,"HOUSE",424000,248,934,5,"Westerlo","2260","Industrieweg","70",4.8281533656015,51.089756103054,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2603453",NA
+"717",10283302,"HOUSE",295000,199,631,4,"Herentals","2200","Fermerijweg","2",4.8282609,51.2003595,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10283302",NA
+"718",10268329,"HOUSE",248000,180,542,3,"Herentals","2200","Goorstraat","54",4.8287624,51.1130689,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10268329",NA
+"719",5132955,"HOUSE",345000,150,544,3,"Beerse","2340","Sint-Barbarastraat","15",4.8290621625265,51.322019585606,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5132955",NA
+"720",2491366,"HOUSE",429000,183,2694,3,"Hulshout","2235","Elzenstraat","24",4.8294584491567,51.056785375814,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2491366",NA
+"721",6188633,"HOUSE",570000,212,974,3,"Hulshout","2235","Tarwestraat","11",4.8299465272987,51.060148641245,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6188633",NA
+"722",6038467,"HOUSE",165000,NA,580,NA,"Herentals","2200","Roggestraat","15",4.830099153876,51.125521270355,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6038467",NA
+"723",10323623,"HOUSE",249000,NA,85,5,"Herentals","2200","St.-Magdalenastraat","16",4.8301211,51.1779596,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10323623",NA
+"724",2465900,"HOUSE",249000,NA,98.056308852858,5,"Herentals","2200","St.-Magdalenastraat","16",4.8302621365652,51.177969946536,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2465900",NA
+"725",2454489,"HOUSE",395000,170,440,3,"Herentals","2200","Blijdenberg","18",4.830305621827,51.179622829477,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2454489",NA
+"726",10258294,"HOUSE",395000,170,440,3,"Herentals","2200","Blijdenberg","18",4.8303173,51.179564,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10258294",NA
+"727",10273139,"HOUSE",429000,190,495,4,"Herentals","2200","Bergenstraat","64",4.8307361,51.1737122,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10273139",NA
+"728",10295075,"HOUSE",349000,90,145,0,"Herentals","2200","Nieuwstraat","125 - 127",4.830806,51.1807454,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10295075","new"
+"729",2462343,"HOUSE",160000,131,445,2,"Herentals","2200","Morkhovenseweg","62",4.8313744059965,51.13173756281,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2462343",NA
+"730",2459494,"HOUSE",279000,190,238.27109736938,3,"Herentals","2200","Kolveniersstraat","14",4.8314108788279,51.171289242776,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2459494",NA
+"731",10056581,"HOUSE",279000,190,238,3,"Herentals","2200","Kolveniersstraat","14",4.831458,51.171261,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10056581",NA
+"732",NA,"Huizen",275000,NA,897,3,"Herentals","2200","Haverstraat 15",NA,4.831587,51.126,"https://immo.notaris.be/nl/instapklare-woning/te-koop/15-haverstraat-2200-noorderwijk/102662",NA
+"733",10293729,"HOUSE",160000,131,445,2,"Herentals","2200","Morkhovenseweg","62",4.831646,51.1317351,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10293729","new"
+"734",10311721,"HOUSE",219000,96,105,1,"Herentals","2200","Nieuwstraat","68",4.8317466,51.179128,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10311721",NA
+"735",5193980,"HOUSE",470000,NA,358,3,"Lille","2275","Delphine adriaensstraat","7",4.83229,51.23398,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5193980",NA
+"736",10306793,"HOUSE",360000,165,1010,4,"Herentals","2200","Acacialaan","45",4.83265,51.163301,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10306793","new"
+"737",2457830,"HOUSE",335000,NA,175,3,"Herentals","2200","Herenthoutseweg","75",4.8329195448476,51.171921256951,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2457830",NA
+"738",2457886,"HOUSE",345000,180,210,4,"Herentals","2200","Herenthoutseweg","71",4.8330525943278,51.172012113708,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2457886",NA
+"739",2453507,"HOUSE",360000,165,1010,4,"Herentals","2200","Acacialaan","45",4.8332015207134,51.163364375817,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2453507",NA
+"740",10328075,"HOUSE",345000,180,210,4,"Herentals","2200","Herenthoutseweg","71",4.8332165,51.1720297,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10328075","new"
+"741",2462238,"LAND",224000,NA,592,NA,"Herentals","2200","Morkhovenseweg","30",4.8332617881453,51.133736808197,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2462238",NA
+"742",2457313,"HOUSE",199000,119,100,3,"Herentals","2200","Goudbloemstraat","22",4.8337260597971,51.180213012024,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2457313",NA
+"743",NA,"Huizen",260000,NA,1018,3,"Herentals","2200","Witbos 18",NA,4.833963,51.12938,"https://immo.notaris.be/nl/woning/te-koop/18-witbos-2200-noorderwijk/98634",NA
+"744",2457294,"HOUSE",288000,110,85.844520405284,2,"Herentals","2200","Goudbloemstraat","4",4.8343896143581,51.180345787001,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2457294",NA
+"745",10328083,"HOUSE",288000,110,0,2,"Herentals","2200","Goudbloemstraat","4",4.8346841,51.1803339,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10328083","new"
+"746",10195235,"HOUSE",299000,171,0,3,"Herentals","2200","Fraikinstraat","64",4.8354364,51.181827,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10195235","new"
+"747",10284795,"HOUSE",289000,125,194,2,"Herentals","2200","Poederleeseweg","42",4.8355848,51.1881182,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10284795",NA
+"748",2455129,"HOUSE",365000,125.78,4990.3486471644,3,"Herentals","2200","Burchtstraat","14",4.8363063420476,51.18157793234,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2455129",NA
+"749",2457361,"HOUSE",319000,157,206,2,"Herentals","2200","Grebbenbos","1",4.8372991612338,51.134890568001,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2457361",NA
+"750",10328070,"HOUSE",319000,157,206,2,"Herentals","2200","Grebbenbos","1",4.8373213,51.1348551,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10328070","new"
+"751",10315250,"HOUSE",379000,187,315,2,"Herentals","2200","Sint-Waldetrudisstraat","61",4.8374132,51.1719723,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10315250",NA
+"752",10264195,"HOUSE",319000,180,80,2,"Herentals","2200","Nonnenstraat","4",4.83876,51.17476,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10264195",NA
+"753",6018002,"HOUSE",698000,332,1090,3,"Herentals","2200","Voortkapelseweg","81",4.8388590110123,51.12184165874,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6018002",NA
+"754",10291644,"HOUSE",698000,332,1090,3,"Herentals","2200","Voortkapelseweg","81",4.8389602,51.1216136,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10291644",NA
+"755",10297887,"HOUSE",215000,114,181,3,"Herentals","2200","Brouwerijstraat","16",4.8393417,51.1406313,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10297887","new"
+"756",10292369,"HOUSE",349500,138,120,2,"Herentals","2200","Stadspoortstraat","7",4.8394886,51.1734811,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10292369",NA
+"757",2466181,"HOUSE",349500,138,120,2,"Herentals","2200","Stadspoortstraat","7",4.8396507594638,51.173569615597,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2466181",NA
+"758",2465233,"HOUSE",319000,108,202,2,"Herentals","2200","Spekmolenstraat","45",4.8398642483235,51.172368181573,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2465233",NA
+"759",2601747,"HOUSE",230000,275,647,3,"Westerlo","2260","Gevaertlaan","191",4.8398644054662,51.087086866369,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2601747",NA
+"760",10257503,"HOUSE",265000,163,269,3,"Herentals","2200","Diesterbaan","11",4.8400154,51.1386075,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10257503",NA
+"761",10292394,"HOUSE",319000,108,202,2,"Herentals","2200","Spekmolenstraat","45",4.8400546,51.172204,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10292394",NA
+"762",2455438,"HOUSE",265000,163,269,3,"Herentals","2200","Diesterbaan","11",4.840088,51.13863,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2455438",NA
+"763",2465220,"HOUSE",340000,330,550,5,"Herentals","2200","Spekmolenstraat","57",4.8403965217365,51.172431286754,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2465220",NA
+"764",2464014,"HOUSE",148000,102,398,2,"Herentals","2200","Raapbreukstraat","19",4.8405622662658,51.188621516196,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2464014",NA
+"765",10295060,"HOUSE",248000,125,230,3,"Herentals","2200","Boerenkrijglaan","1",4.8406526,51.1733219,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10295060","new"
+"766",2602902,"HOUSE",649000,255,1056,4,"Westerlo",NA,"Het locht","43",4.8407287105157,51.077278132568,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2602902",NA
+"767",5994792,"LAND",155000,NA,730,NA,"Herselt","2230","Lindenstraat","16",4.8418809101191,51.022117772705,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5994792",NA
+"768",2454788,"HOUSE",389000,126,561,3,"Herentals","2200","Boudewijnstraat","17",4.8418953854435,51.136445715795,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2454788",NA
+"769",10296418,"HOUSE",389000,126,561,3,"Herentals","2200","Boudewijnstraat","17",4.8419079,51.1364567,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10296418","new"
+"770",NA,"Huizen",450000,NA,774,3,"Herentals","2200","Raapbreukstraat 43",NA,4.842025,51.188683,"https://immo.notaris.be/nl/woning-met-3-slaapkamers/te-koop/43-raapbreukstraat-2200-herentals/99901",NA
+"771",10296716,"HOUSE",309000,125,601,3,"Herentals","2200","Boudewijnstraat","13",4.8421973,51.1366903,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10296716","new"
+"772",2466764,"HOUSE",399000,185,433,4,"Herentals","2200","Tulpenstraat","11",4.842659031769,51.189902990981,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2466764",NA
+"773",10292374,"HOUSE",399000,185,433,4,"Herentals","2200","Tulpenstraat","11",4.8427258,51.1898113,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10292374",NA
+"774",10300741,"HOUSE",220000,135,112,3,"Herentals","2200","Lichtaartseweg","125",4.8455131,51.1921963,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10300741","new"
+"775",NA,"Huizen",290000,NA,240,3,"Herentals","2200","Lichtaartseweg 139",NA,4.846229,51.19256,"https://immo.notaris.be/nl/woonhuis-met-3-slaapkamers-op-240-m2/te-koop/139-lichtaartseweg-2200-herentals/104373",NA
+"776",2518523,"HOUSE",415000,172,580,4,"Merksplas","2330","Krekelstraat","11",4.8464578085301,51.352146839491,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2518523",NA
+"777",2460503,"LAND",149000,NA,279,NA,"Herentals","2200","Lichtaartseweg","29",4.846609,51.19336,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2460503",NA
+"778",5858802,"HOUSE",370000,166.6,969.96075527533,2,"Olen","2250","Kijnigestraat","44",4.8466639569001,51.145131893413,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5858802","new"
+"779",2473469,"HOUSE",169000,140,305,2,"Herselt","2230","Aarschotsesteenweg","211",4.8469657069016,51.029244088712,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2473469",NA
+"780",10318463,"HOUSE",145000,80,115,1,"Herentals","2200","Velodroomstraat","11",4.8475676,51.1737919,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10318463",NA
+"781",2468679,"HOUSE",245000,149,426,3,"Herentals","2200","Zavelstraat","73",4.850083,51.17491,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2468679",NA
+"782",10302333,"HOUSE",245000,149,426,3,"Herentals","2200","Zavelstraat","73",4.850234,51.174883,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10302333","new"
+"783",2420323,"HOUSE",285000,232,375,4,"Beerse","2340","Melkerijstraat","8",4.850569963207,51.318342773481,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2420323",NA
+"784",10292402,"HOUSE",449000,207,1420,4,"Herentals","2200","Lavendelweg","20",4.8516875,51.1956633,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10292402",NA
+"785",2460512,"HOUSE",449000,207,1420,4,"Herentals","2200","Lavendelweg","20",4.8517129914775,51.195628675846,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2460512",NA
+"786",5193982,"LAND",23000,NA,6785,NA,"Lille","2275","Eerssels",NA,4.8517727753601,51.259925920275,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5193982",NA
+"787",2420058,"HOUSE",395000,239,395,3,"Beerse","2340","Lindenlaan","41",4.8521386338623,51.318783486244,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2420058",NA
+"788",NA,"Huizen",250000,NA,800,2,"Herentals","2200","Lichtaartseweg 176",NA,4.853294,51.194572,"https://immo.notaris.be/nl/te-renoveren-woning/te-koop/176-lichtaartseweg-2200-herentals/104004",NA
+"789",2420556,"HOUSE",399000,324,123.73970231926,4,"Beerse","2340","Molenstraat","4",4.8536191784977,51.319676686503,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2420556",NA
+"790",2477416,"HOUSE",175000,77,2638,3,"Herselt","2230","Maasvelden","14",4.8542482389038,51.024212344178,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2477416",NA
+"791",2419509,"HOUSE",795000,451,2641,4,"Beerse","2340","Koningslaan","21",4.8544616729559,51.304172815528,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2419509",NA
+"792",2415386,"HOUSE",575000,321,1655,4,"Beerse","2340","Antwerpseweg","3",4.8548348429099,51.309783171475,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2415386",NA
+"793",2464767,"HOUSE",335000,165,161,3,"Herentals","2200","Schuttersstraat","60",4.855055,51.17842,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2464767",NA
+"794",2542925,"HOUSE",439000,200,1251,3,"Olen","2250","Heiblokken","28",4.8554412128944,51.147327874084,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2542925",NA
+"795",10260384,"HOUSE",335000,165,161,3,"Herentals","2200","Schuttersstraat","60",4.8559802,51.1785482,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10260384",NA
+"796",2546613,"HOUSE",384000,140,374,3,"Olen","2250","Stadsestraat","22",4.856816,51.14794,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2546613",NA
+"797",10268584,"HOUSE",268000,175,482,4,"Herentals","2200","Musketstraat","53",4.857509,51.181104,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10268584",NA
+"798",5859045,"HOUSE",499000,241.33,1330.2958136005,3,"Olen","2250","Kattebos","8-10",4.8583560978874,51.140161197616,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5859045",NA
+"799",NA,"Huizen",185000,NA,355,3,"Lille","2275","Oude Lillebaan 6",NA,4.8585706,51.262047,"https://immo.notaris.be/nl/goed-gelegen-woonhuis/te-koop/6-oude-lillebaan-2275-gierle/103340",NA
+"800",2604134,"HOUSE",259000,140,1427,3,"Westerlo","2260","Kloosterstraat","21",4.8594104118683,51.114876976112,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2604134",NA
+"801",2418486,"HOUSE",559000,266,1377,3,"Beerse","2340","Jozef simonsstraat","23",4.8615029937706,51.317748414912,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2418486",NA
+"802",2473405,"HOUSE",465000,190,1446,3,"Herselt","2230","Aarschotsesteenweg","133",4.8619016567244,51.043670082204,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2473405",NA
+"803",NA,"Huizen",236000,NA,690,3,"Olen","2250","Het Bremmeken 6",NA,4.862383,51.145676,"https://immo.notaris.be/nl/open-bebouwing-met-tuin/te-koop/6-het-bremmeken-2250-olen/103770",NA
+"804",2457083,"HOUSE",289000,108,598,3,"Herentals","2200","Geelseweg","79",4.8626518343332,51.16789047251,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2457083",NA
+"805",10322900,"HOUSE",289000,108,598,3,"Herentals","2200","Geelseweg","79",4.862671,51.1679331,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10322900",NA
+"806",2608779,"HOUSE",499000,228,1201.6934378529,3,"Westerlo","2260","Stijn streuvelsstraat","23",4.8631062490159,51.117280922134,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2608779",NA
+"807",2601085,"HOUSE",249000,133,1035,2,"Westerlo","2260","Ernest claesstraat","22",4.8640016583564,51.11182456728,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2601085",NA
+"808",2609103,"HOUSE",199500,127,339,3,"Westerlo","2260","Ter voort","82",4.8646007815642,51.113461610672,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2609103",NA
+"809",NA,"Huizen",320000,NA,903,3,"Lille","2275","Veenzijde 29",NA,4.864877,51.262245,"https://immo.notaris.be/nl/te-renoveren-woning/te-koop/29-veenzijde-2275-lille/101729",NA
+"810",2503969,"HOUSE",385000,283,694,4,"Lille","2275","Beersebaan","86",4.8654742264527,51.275110079978,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2503969",NA
+"811",2541036,"HOUSE",349000,258,559,3,"Olen","2250","Bulestraat","57",4.86633,51.14515,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2541036",NA
+"812",2604414,"HOUSE",498000,NA,1037.5368126342,3,"Westerlo","2260","Kortestraat","1",4.8668152683018,51.116852646333,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2604414",NA
+"813",2606424,"HOUSE",435000,NA,1359.9083686862,3,"Westerlo","2260","Olenseweg","255",4.8675366038641,51.120765028035,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2606424",NA
+"814",2476041,"HOUSE",199000,181,806,3,"Herselt","2230","Halfmaanstraat","2",4.867747419681,51.051361412212,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2476041",NA
+"815",2606545,"HOUSE",269000,147,704,2,"Westerlo","2260","Olenseweg","272",4.8684534413283,51.122873462085,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2606545",NA
+"816",10291639,"HOUSE",785000,333,3302,5,"Herentals","2200","Jagersdreef","7",4.8699936,51.2018559,"https://www.immoweb.be/nl/zoekertje/huis/te-koop/herentals/2200/10291639",NA
+"817",2458490,"HOUSE",785000,333,3302,5,"Herentals","2200","Jagersdreef","7",4.870133,51.20187,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2458490",NA
+"818",2418915,"HOUSE",379000,185,413,4,"Beerse","2340","Kattespoelstraat","36",4.8705769491729,51.321656491939,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2418915",NA
+"819",2510689,"HOUSE",419000,175,1108,2,"Lille","2275","Vennestraat","70",4.8714876068825,51.26348557612,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2510689",NA
+"820",5162042,"HOUSE",319000,192,1340,3,"Kasterlee","2460","Vosberg","3",4.8748800521092,51.222735873409,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5162042",NA
+"821",2595407,"HOUSE",410000,164,845,2,"Vosselaar","2350","Dreef","6",4.8761533085457,51.318358555048,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2595407",NA
+"822",2607289,"HOUSE",659000,240,4030,3,"Westerlo","2260","Pottatenhuizen","16",4.8775269950956,51.120446497953,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2607289",NA
+"823",2541622,"HOUSE",349500,157,4158,4,"Olen","2250","Doffen","145",4.8812486314348,51.175718851753,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2541622",NA
+"824",2476597,"HOUSE",135000,110,762,2,"Herselt","2230","Hoge langdonken","12",4.8813960275921,51.027969844013,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2476597",NA
+"825",2598304,"HOUSE",459000,237,1114,3,"Vosselaar","2350","Stoktsebaan","44",4.8828491734315,51.320039339763,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2598304",NA
+"826",2476593,"HOUSE",150000,110,638,2,"Herselt","2230","Hoge langdonken","32",4.8833465709285,51.028397838287,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2476593",NA
+"827",2478567,"HOUSE",439000,137,5364,5,"Herselt","2230","Schom","9",4.8873573534834,51.044447249741,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2478567",NA
+"828",2520918,"HOUSE",487000,201,2866,3,"Merksplas","2330","Wolfstraat","9",4.8880005033216,51.348157857283,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2520918",NA
+"829",2497786,"HOUSE",495000,227,1110,4,"Kasterlee","2460","Hoek","15",4.8882042735466,51.238591199819,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2497786",NA
+"830",2543944,"HOUSE",329000,184,612,3,"Olen","2250","Koperstraat","40",4.8895121937764,51.178414217507,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2543944",NA
+"831",2479810,"HOUSE",349000,179,1244,4,"Herselt","2230","Westerlosesteenweg","57",4.8898181689307,51.061043967563,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2479810",NA
+"832",6037161,"HOUSE",444416,187,428,3,"Gierle",NA,"Turnhoutsebaan","3",4.8899604644,51.2795476315,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6037161",NA
+"833",NA,"Huizen",395000,NA,417,3,"Olen","2250","Gerheiden 33",NA,4.890287,51.164978,"https://immo.notaris.be/nl/centraal-gelegen-halfopen-bebouwde-woning-gelegen-te-olen/te-koop/33-gerheiden-2250-olen/102296",NA
+"834",6070228,"HOUSE",480000,256,341,3,"Kasterlee","2460","Flor baron peetersstraat",NA,4.890711,51.23965,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6070228",NA
+"835",2542541,"HOUSE",299000,196,704,3,"Olen","2250","Gestelstraat","81",4.8910444664669,51.17243627881,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2542541",NA
+"836",2546065,"HOUSE",579000,127,3420,2,"Olen","2250","Poesdijk","8",4.8918627429698,51.189124736135,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2546065",NA
+"837",NA,"Huizen",485000,NA,4850,2,"Olen","2250","Missestraat 5",NA,4.892946,51.155167,"https://immo.notaris.be/nl/gunstig-gelegen-woonhuis-met-groot-perceel-landbouwgrond/te-koop/5-missestraat-2250-olen/97156",NA
+"838",2596731,"HOUSE",269000,150,229,3,"Vosselaar","2350","Kerkstraat","100",4.8945394979862,51.314954229292,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2596731",NA
+"839",2479562,"HOUSE",384000,180,379.65181714306,3,"Herselt","2230","Vorstheide","53",4.8959603612945,51.033030806981,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2479562",NA
+"840",2478331,"HOUSE",79000,NA,1237,1,"Herselt","2230","Rijselberg","55",4.8986329593531,51.064422231618,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2478331",NA
+"841",NA,"Huizen",1e+05,NA,270,3,"Westerlo","2260","Doelstraat 32",NA,4.900693,51.08553,"https://immo.notaris.be/nl/huis-met-grond/te-koop/32-doelstraat-2260-westerlo/103086",NA
+"842",2598543,"HOUSE",549000,286,1443,4,"Vosselaar","2350","Vredelaan","9",4.9021632720818,51.312735208289,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2598543",NA
+"843",2479634,"LAND",175000,NA,1168,NA,"Herselt","2230","Westerlosesteenweg","127",4.902909,51.07367,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2479634",NA
+"844",2606253,"HOUSE",260000,123,212,2,"Westerlo","2260","Oeveldorp","36",4.9038836598332,51.137935994159,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2606253",NA
+"845",2499486,"HOUSE",665000,391,1325,4,"Lichtaart",NA,"Larikslaan","16",4.9098126557824,51.21551643652,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2499486",NA
+"846",2500983,"HOUSE",725000,307,1574.7815223765,3,"Kasterlee","2460","Olmenlaan","27",4.9113804284037,51.214305370411,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2500983",NA
+"847",2437947,"LAND",249000,NA,848,NA,"Geel","2440","Larumseweg","52",4.911584,51.16655,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2437947",NA
+"848",2497016,"HOUSE",420000,270,1163,4,"Kasterlee","2460","Esdoornlaan","3",4.9133336517077,51.221168903226,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2497016",NA
+"849",2429252,"HOUSE",435000,326,1820,4,"Geel","2440","Borgeleien","92",4.9171818459276,51.193174812979,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2429252",NA
+"850",2545223,"HOUSE",399000,222,6245,4,"Olen","2250","Meren","25",4.9191610420438,51.155568485447,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2545223",NA
+"851",6046433,"HOUSE",565000,306,237,2,"Westerlo","2260","Molenerf","4",4.9197614041733,51.107715633388,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6046433","new"
+"852",2499637,"HOUSE",265000,195,394,3,"Kasterlee","2460","Leistraat","38",4.92049830718,51.224921386691,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2499637",NA
+"853",2499009,"HOUSE",199000,104,860,1,"Kasterlee","2460","Klein plaats","12",4.9220207501128,51.228559612648,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2499009",NA
+"854",2475922,"HOUSE",490000,270,729.92457360821,3,"Herselt","2230","Goorbaan","8",4.9252036019796,51.046345275729,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2475922",NA
+"855",2584744,"HOUSE",269000,120,235,3,"Turnhout","2300","Rerum novarumlaan","9",4.9261148581189,51.323225942425,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2584744",NA
+"856",2581305,"HOUSE",215000,119,310,3,"Turnhout",NA,"Lokerenstraat","97",4.9279394025576,51.31797315057,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2581305",NA
+"857",2578413,"HOUSE",285000,141,525,3,"Turnhout","2300","Jef buyckxstraat","78",4.9299831398098,51.306039541886,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2578413",NA
+"858",2574264,"HOUSE",345000,205,496.60259262993,4,"Turnhout",NA,"De merodelei","197",4.9312270453711,51.320370946586,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2574264","new"
+"859",2574271,"HOUSE",485000,342,270,4,"Turnhout","2300","De merodelei","172",4.9323757674782,51.321129309671,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2574271",NA
+"860",2584250,"HOUSE",229000,121,80,2,"Turnhout","2300","Peter benoitstraat","33",4.9328557666295,51.319774693202,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2584250",NA
+"861",2579081,"HOUSE",185000,NA,150,3,"Turnhout","2300","Karel oomsstraat","28",4.9329174004018,51.324477061438,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2579081",NA
+"862",2435238,"HOUSE",425000,170,945,3,"Geel","2440","Herentalsedijk","22",4.9337506874014,51.180180459379,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2435238",NA
+"863",2573811,"HOUSE",214000,170,150,4,"Turnhout","2300","Broekstraat","54",4.9341973548698,51.313992157503,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2573811",NA
+"864",2575148,"HOUSE",220000,117,285,2,"Turnhout","2300","Duinenstraat","53",4.9342320720108,51.3185785731,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2575148",NA
+"865",2584789,"HOUSE",285000,159,486,3,"Turnhout","2300","Rivierstraat","104",4.9375965213815,51.315431240301,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2584789",NA
+"866",2587539,"HOUSE",545000,483,840,3,"Turnhout","2300","Steenweg op tielen","28",4.9383799929371,51.308175861265,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2587539",NA
+"867",2429416,"LAND",165000,NA,593,NA,"Geel","2440","Breerijt","4",4.9388602508728,51.096323559432,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2429416",NA
+"868",2577360,"HOUSE",369000,155,200,3,"Turnhout","2300","Heilig hartstraat","32",4.9393831917003,51.320785639588,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2577360",NA
+"869",2577183,"HOUSE",278000,150,249,3,"Turnhout","2300","Hannuitstraat","22",4.9403690567701,51.325040462226,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2577183",NA
+"870",2580608,"HOUSE",339000,220,99,3,"Turnhout","2300","Kruishuisstraat","21",4.9409322561863,51.320683412855,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2580608",NA
+"871",2428960,"HOUSE",225000,205,825,3,"Geel","2440","Bell-Telephonelaan","111",4.9426136898993,51.132437141876,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2428960",NA
+"872",NA,"Huizen",290000,NA,1235,3,"Geel","2440","Larumsebrugweg 5",NA,4.9430614,51.168045,"https://immo.notaris.be/nl/goed-gelegen-woning/te-koop/5-larumsebrugweg-2440-geel/103544",NA
+"873",2580386,"HOUSE",348000,164,179,3,"Turnhout","2300","Korte vianenstraat","12",4.9431435945859,51.318888236025,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2580386",NA
+"874",2434676,"HOUSE",275000,285,800,5,"Geel","2440","Hazenhout","2",4.9433598523655,51.123928980765,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2434676",NA
+"875",2558705,"HOUSE",409000,220,392,4,"Ravels","2381","Parkstraat","28",4.9473580544258,51.396452535206,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2558705",NA
+"876",2573041,"HOUSE",169000,110,78,2,"Turnhout","2300","Beirenmolenstraat","7",4.9480983993088,51.330883529421,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2573041",NA
+"877",2438476,"HOUSE",349000,182,900,4,"Geel","2440","Leeks","36",4.9503222077823,51.138782268558,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2438476",NA
+"878",2438169,"HOUSE",315000,251,1725,4,"Geel","2440","Larumseweg","115",4.9512941581401,51.165114557015,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2438169",NA
+"879",5117977,"HOUSE",445000,210,273,3,"Turnhout","2300","Dokter paul janssenlaan","14",4.9518772989956,51.328715626479,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5117977",NA
+"880",2581757,"HOUSE",259000,133,91,3,"Turnhout","2300","Mermansstraat","57",4.9531608103792,51.319666886575,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2581757",NA
+"881",2572063,"HOUSE",215000,127,96,2,"Turnhout","2300","Akkerpad","51",4.9537543353669,51.324159227492,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2572063",NA
+"882",2580261,"HOUSE",195000,145,160,3,"Turnhout","2300","Korte mermansstraat","60",4.953902729929,51.31779592265,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2580261",NA
+"883",2503081,"HOUSE",324000,142,2424,3,"Kasterlee","2460","Turnhoutsebaan","222",4.9559734872072,51.273472055412,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2503081",NA
+"884",2588941,"HOUSE",159000,110,156,2,"Turnhout","2300","Voorzorgstraat","14",4.9569566865806,51.332274960613,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2588941",NA
+"885",2580662,"HOUSE",275000,180,435,3,"Turnhout","2300","Kwakkelstraat","167",4.957631271902,51.316180268954,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2580662",NA
+"886",2581697,"HOUSE",299000,125,170,3,"Turnhout",NA,"Meirgorenstraat","11",4.9588164925828,51.333197710995,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2581697",NA
+"887",2585331,"HOUSE",435000,120,811,3,"Turnhout","2300","Schepersstraat","1",4.9588812419271,51.307814154874,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2585331","new"
+"888",2581409,"LAND",159000,NA,565,NA,"Turnhout","2300","Maasstraat","6",4.959296,51.32571,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2581409",NA
+"889",2577786,"HOUSE",290000,149,405,3,"Turnhout","2300","Hogestraat","36",4.9594365112962,51.331830593504,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2577786",NA
+"890",2581547,"HOUSE",369000,160,134,3,"Turnhout","2300","Maasstraat","54",4.9596401438696,51.325444892569,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2581547",NA
+"891",2585915,"HOUSE",299000,159,501,3,"Turnhout","2300","Slagmolenstraat","118",4.9626100845029,51.303896919341,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2585915",NA
+"892",2433346,"HOUSE",339000,161,3116,3,"Geel","2440","Ganzenstraat","19",4.9626784722635,51.174086767366,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2433346",NA
+"893",2582223,"HOUSE",519000,228,426,5,"Turnhout","2300","Neerhofstraat","33",4.9634766516839,51.323917099266,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2582223",NA
+"894",2612667,"HOUSE",330000,160,2000,3,"Laakdal","2431","Haanven","6",4.9634890594713,51.070047104418,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2612667",NA
+"895",2435328,"HOUSE",525000,339,3741,4,"Geel",NA,"Heuvel","28",4.9657160900567,51.181072709662,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2435328",NA
+"896",2438170,"HOUSE",785000,437,2475,4,"Geel",NA,"Larumseweg","54",4.9675572827492,51.164371608749,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2438170",NA
+"897",2438145,"HOUSE",395000,NA,694,2,"Geel","2440","Larumseweg","21",4.9703985773618,51.165221516154,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2438145",NA
+"898",2443286,"HOUSE",445000,170,1027,3,"Geel","2440","St.-Apolloniastraat","15",4.9729278975987,51.12260601974,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2443286",NA
+"899",2553042,"HOUSE",450000,199,300,3,"Oud-Turnhout","2360","Steenweg op turnhout","95",4.9733796469532,51.320170910706,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2553042",NA
+"900",2431525,"HOUSE",230000,155,245,3,"Geel","2440","Eendenstraat","2",4.9737874670276,51.171027013387,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2431525",NA
+"901",2495738,"HOUSE",498000,264,1029,3,"Kasterlee","2460","Acacialaan","24",4.976789156839,51.238434189392,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2495738",NA
+"902",NA,"Huizen",2e+05,NA,707,4,"Kasterlee","2460","Lindenlaan 5",NA,4.979115,51.247643,"https://immo.notaris.be/nl/vrijstaande-laagbouwwoning/te-koop/5-lindenlaan-2460-kasterlee/104064",NA
+"903",2432646,"HOUSE",250000,191,543,3,"Geel","2440","Elsum","79",4.980632022493,51.164612591069,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2432646",NA
+"904",2551667,"HOUSE",560000,325,2700,5,"Oud-Turnhout",NA,"Schuurhoven","43",4.9807876992534,51.335144658239,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2551667","new"
+"905",NA,"Huizen",140000,NA,171,3,"Geel","2440","Velleke 9",NA,4.9814105,51.165913,"https://immo.notaris.be/nl/woning/te-koop/9-velleke-2440-geel/102821",NA
+"906",2554460,"HOUSE",495000,370,655,4,"Ravels","2380","Blauwe kei","35",4.981930252904,51.376014116859,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2554460","new"
+"907",2444148,"HOUSE",445000,202,740.80144965462,3,"Geel","2440","Stelenseweg","25",4.9825545329588,51.151880154038,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2444148",NA
+"908",2428195,"HOUSE",349000,187,422,4,"Geel","2440","Anemoonstraat","3",4.9840407700639,51.158953856449,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2428195",NA
+"909",6079916,"HOUSE",755000,300,800,4,"Ravels",NA,"Populierendreef","4",4.98682831695,51.36234236155,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6079916",NA
+"910",2611908,"HOUSE",385000,266,366,1,"Laakdal","2431","Diestse baan","36",4.9899794202747,51.065697930519,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2611908",NA
+"911",2548002,"HOUSE",299000,160,640,3,"Oud-Turnhout","2360","Augustijnenstraat","16",4.9937618476075,51.30996803285,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2548002",NA
+"912",2616299,"HOUSE",315000,240,312,3,"Laakdal","2430","Schoolstraat","33",4.996164790311,51.101904837837,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2616299",NA
+"913",2429826,"HOUSE",235000,180,317,4,"Geel","2440","De-Billemontstraat","72",4.9989465865428,51.163297569054,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2429826",NA
+"914",2551634,"HOUSE",239000,110,71.077205206267,2,"Oud-Turnhout","2360","Schoutenhoefstraat","6",5.0036698304219,51.305651683122,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2551634",NA
+"915",2433193,"HOUSE",449000,189,1485,4,"Geel","2440","Galven","10",5.0055675651368,51.168875262906,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2433193",NA
+"916",2429991,"HOUSE",499000,NA,1200,3,"Geel",NA,"Dennenstraat","37",5.0056013375508,51.124018009814,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2429991",NA
+"917",2560806,"HOUSE",249000,134,335,3,"Ravels","2381","Weeldestraat","9",5.0104171901545,51.40795121279,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2560806",NA
+"918",2560778,"HOUSE",309000,165,715,2,"Ravels","2380","Warandestraat","16",5.012899127636,51.375923795963,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2560778",NA
+"919",5614955,"HOUSE",575000,182,528,4,"Geel","2440","Gasthuisheide","59",5.0135179292791,51.127675913001,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5614955",NA
+"920",2556116,"HOUSE",459000,191,1292,2,"Ravels","2381","Hegge","7",5.0162130491931,51.416605394483,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2556116",NA
+"921",2438663,"HOUSE",325000,157,1259,3,"Geel","2440","Lieventier","10",5.0196994129385,51.190352400213,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2438663",NA
+"922",2436556,"HOUSE",330000,120,1615,2,"Geel","2440","Kievermont","140",5.0292916187623,51.177929237096,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2436556",NA
+"923",2554127,"HOUSE",479500,207,1729,4,"Poppel",NA,"Aarledijk","12",5.0342429678043,51.452526365561,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2554127",NA
+"924",2611127,"HOUSE",369850,182,505,3,"Laakdal","2430","Beustereind",NA,5.038514,51.08596,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2611127",NA
+"925",2439337,"HOUSE",469000,304,2067,6,"Geel","2440","Meerhoutseweg","39",5.038886827695,51.158647214791,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2439337",NA
+"926",2535114,"HOUSE",349000,NA,1146.2904184876,5,"Mol","2400","Pettenlaan","25",5.0403863504053,51.193507621645,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2535114",NA
+"927",2557505,"HOUSE",625000,264,1220,3,"Poppel",NA,"Krommendijk","56",5.0449669043913,51.442809349904,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2557505",NA
+"928",2618457,"HOUSE",363980,185,344,3,"Laakdal","2430","Zijstraat",NA,5.049674,51.0826,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2618457",NA
+"929",2614606,"HOUSE",615000,299,850,4,"Laakdal","2430","Meerhoutstraat","9",5.0505898597073,51.088699524242,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2614606",NA
+"930",2565537,"HOUSE",315000,136,1078,3,"Retie",NA,"Sint-Jobstraat","7",5.055530327664,51.288243313357,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2565537",NA
+"931",6043637,"HOUSE",449500,176,346,4,"Retie","2470","Broekstraat ","20",5.0567539530581,51.288445461645,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6043637",NA
+"932",2531617,"HOUSE",319000,252,539,2,"Mol","2400","Koekoekstraat","4",5.0735070507838,51.18731130295,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2531617",NA
+"933",2396871,"HOUSE",349000,205,730,4,"Arendonk","2370","De daries","93",5.0737486922084,51.317345293337,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2396871",NA
+"934",2396874,"HOUSE",435000,317,717,2,"Arendonk",NA,"De daries","75",5.0747896371142,51.317701051695,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2396874",NA
+"935",2397065,"HOUSE",780000,NA,9385,4,"Arendonk",NA,"De lusthoven","33",5.074813555303,51.333379568215,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2397065",NA
+"936",2397110,"HOUSE",228000,230,375,3,"Arendonk","2370","De lusthoven","2",5.0762003169939,51.328794794847,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2397110",NA
+"937",2397791,"HOUSE",395000,183,1006,3,"Arendonk",NA,"Grotstraat","30",5.0783483366847,51.326991439673,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2397791",NA
+"938",2516223,"HOUSE",325000,180,380,2,"Meerhout","2450","Violetstraat","11",5.0785922552366,51.133201316334,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2516223",NA
+"939",2539628,"HOUSE",535000,338,1738,6,"Mol",NA,"Volmolenheide","50",5.083461641093,51.166590764818,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2539628",NA
+"940",2533550,"HOUSE",245000,0,383,2,"Mol","2400","Mezenstraat","5",5.0836236754098,51.186547658023,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2533550",NA
+"941",2397336,"HOUSE",349000,269,410,5,"Arendonk","2370","De valken","7",5.0841748420108,51.319980970898,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2397336","new"
+"942",2400780,"LAND",305000,NA,460,NA,"Arendonk","2370","Torenstraat","8",5.084567,51.31974,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2400780",NA
+"943",2399474,"HOUSE",279000,141,289,2,"Arendonk","2370","Koeistraat","84",5.0879024352919,51.316695760094,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2399474",NA
+"944",2399845,"HOUSE",410000,150,759,4,"Arendonk",NA,"Molenwiel","23",5.0881532109617,51.324808746086,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2399845",NA
+"945",2424432,"HOUSE",399000,210,550,4,"Dessel","2480","Delstraat","46",5.0889454673238,51.241799873822,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2424432",NA
+"946",6029145,"HOUSE",154000,63,210,1,"Ravels","2382","Tulderbos","189",5.0908721529552,51.451733251011,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/6029145",NA
+"947",2425969,"HOUSE",329000,400,786,4,"Dessel","2480","Lijsterstraat","2",5.0911303345543,51.240833960534,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2425969",NA
+"948",2401515,"HOUSE",224000,132,199,3,"Arendonk","2370","Wampenberg","225",5.0982118225375,51.333535226151,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2401515",NA
+"949",2397028,"LAND",185000,NA,290,NA,"Arendonk","2370","De valken","60",5.0985854906919,51.32319124553,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2397028",NA
+"950",2396639,"LAND",215000,NA,675,NA,"Arendonk",NA,"De brulen","34",5.102607,51.339481,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2396639",NA
+"951",2423796,"HOUSE",549000,333,1145,3,"Dessel","2480","Bleekstraat","18",5.1064120427138,51.24622437731,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2423796",NA
+"952",2527111,"HOUSE",249000,NA,545,2,"Mol","2400","Ginderbroek","56",5.1065928239709,51.181022482583,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2527111",NA
+"953",2530198,"HOUSE",645000,249,263,4,"Mol",NA,"Jakob smitslaan","37",5.1106305834606,51.186260024455,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2530198",NA
+"954",2425881,"LAND",145000,0,6789.9259507898,0,"Dessel","2480","Kuilstraat","43",5.1119502861323,51.25041414951,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2425881",NA
+"955",2524765,"LAND",195000,NA,1449,NA,"Mol","2400","Donk","20",5.1157649349671,51.215410225346,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2524765",NA
+"956",2537004,"LAND",149000,NA,1161,NA,"Mol","2400","Sluis","31",5.1186561489032,51.208066759913,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2537004",NA
+"957",2407345,"HOUSE",329000,191.21,3750,5,"Balen","2490","Hulsen","47",5.1244007230543,51.148013157194,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2407345",NA
+"958",2423819,"HOUSE",385000,249,522,4,"Dessel","2480","Bleukenstraat","26",5.1260154253488,51.238446954019,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2423819",NA
+"959",2424070,"HOUSE",788000,234,3216,4,"Dessel","2480","Boshoek","12",5.1273581262998,51.255138810561,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2424070",NA
+"960",2534699,"HOUSE",329000,127,2090,3,"Mol","2400","Pastoor wuytsstraat","58",5.1283774551338,51.207525118168,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2534699",NA
+"961",2534720,"HOUSE",219000,153.4,1256,3,"Mol","2400","Pastoor wuytsstraat","12",5.1336919535402,51.209361064344,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2534720",NA
+"962",2537069,"HOUSE",198000,218,330,3,"Mol","2400","Sluis","174",5.1345598679585,51.21088468655,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2537069",NA
+"963",2409975,"HOUSE",289000,168,869.40815964644,3,"Balen","2490","Olmensebaan","25",5.1369170269461,51.172528557318,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2409975",NA
+"964",2425514,"HOUSE",335000,172.13,252,3,"Dessel","2480","Kromstraat","120",5.144729,51.23722,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2425514",NA
+"965",5759167,"LAND",105000,NA,238,NA,"Dessel","2480","Oude velden",NA,5.145529,51.23779,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5759167",NA
+"966",2408570,"HOUSE",375000,300,1025,5,"Balen","2490","Langvennen","93",5.1472087890797,51.17641792233,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2408570",NA
+"967",2426344,"HOUSE",399000,146,792,4,"Dessel","2480","Meistraat","177",5.1501392537214,51.23994995358,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2426344",NA
+"968",2404196,"HOUSE",355000,253,603,3,"Balen","2490","Bert leysenlaan","16",5.1596968311078,51.1737338737,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2404196",NA
+"969",2410326,"HOUSE",379000,195,1090,3,"Balen","2491","Oosthamsesteenweg","85",5.1630979352413,51.119548042586,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2410326",NA
+"970",2403527,"HOUSE",174000,265,190,3,"Balen","2490","Alfons dierckxstraat","8",5.1644436091494,51.171332887509,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2403527",NA
+"971",2407014,"LAND",99000,NA,635,NA,"Balen",NA,"Hoolsterberg","24",5.166104,51.160409,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2407014",NA
+"972",2414964,"HOUSE",549000,680,405,5,"Balen","2490","Zandstraat","57",5.1687800875199,51.172905667729,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2414964",NA
+"973",2409019,"HOUSE",399750,187,425,3,"Balen",NA,"Molenstraat","143",5.1822,51.17294,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2409019",NA
+"974",2409019,"HOUSE",399750,187,443,3,"Balen",NA,"Molenstraat","145",5.18231,51.17293,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2409019",NA
+"975",2408974,"HOUSE",265000,208,2810,3,"Balen","2490","Misseweg","19",5.1857480939467,51.174111363568,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2408974",NA
+"976",2412267,"HOUSE",439000,265,1840,2,"Balen","2490","Soef","139",5.1891366025492,51.180218147453,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2412267","new"
+"977",2409559,"HOUSE",260000,140,1086,3,"Balen","2490","Molenveld","221",5.1986453740311,51.179135468338,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2409559",NA
+"978",5102680,"HOUSE",475000,185,1105,4,"Mol","2400","Kruiwagenstraat","26",5.1992430295681,51.208509478227,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/5102680",NA
+"979",2413188,"HOUSE",499000,341,2754,3,"Balen","2490","Steegsebaan","219",5.2017409591409,51.172131817167,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2413188",NA
+"980",2531277,"HOUSE",239000,159,1015,3,"Mol","2400","Kiezelweg","230",5.21111825696,51.221206748542,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2531277",NA
+"981",2535749,"HOUSE",499000,233,1251,5,"Mol","2400","Ringlaan","8",5.2116802653057,51.193313891792,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2535749","new"
+"982",2526304,"HOUSE",225000,175,1102,3,"Mol","2400","F.s. emsenslaan","30",5.2128545788733,51.218718784454,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2526304",NA
+"983",2537525,"HOUSE",349000,237,505,5,"Mol","2400","Sint-Jozefslaan","72",5.2146197355127,51.194544520868,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2537525","new"
+"984",2412466,"LAND",139000,NA,650,NA,"Balen","2490","Sportlaan ","lot 3",5.2277644693753,51.187654141102,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2412466",NA
+"985",2405562,"HOUSE",599000,247,1580,4,"Balen","2490","Fabriekstraat","2",5.2319725741595,51.193899455101,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2405562",NA
+"986",2414666,"HOUSE",285000,169,1928,4,"Balen","2490","Weidestraat ","10",5.2405301109499,51.189690086844,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2414666",NA
+"987",2403426,"LAND",169000,NA,1028,NA,"Balen","2490","Acaciadreef",NA,5.243435,51.18802,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2403426",NA
+"988",2407497,"HOUSE",349000,127,2746,2,"Balen","2490","Kapelstraat","177",5.2509531782095,51.186310196293,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2407497",NA
+"989",2414168,"HOUSE",239000,171,906,4,"Balen","2490","Vennen","31",5.2517196134789,51.163875233465,"https://www.realo.be/en/diesterbaan-11-2200-noorderwijk/2414168",NA

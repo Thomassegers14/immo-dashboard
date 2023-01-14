@@ -1,0 +1,155 @@
+html {
+  background: #2f2e33;
+}
+
+.scatterplot {
+  width: 100%;
+  height: 600px;
+  /* border: 1px solid red; */
+}
+
+.axis text {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.8rem;
+  color: #706f70;
+}
+
+.axis {
+  color: #504e4f;
+}
+
+.annotation {
+  font-family: 'Roboto', sans-serif;
+  font-style: italic;
+  font-size: 0.9rem;
+  fill: grey;
+  text-transform: uppercase;
+}
+
+.annotation__area {
+  fill: #474647;
+  opacity: 0.6;
+}
+
+.dot {
+  fill: orange;
+  fill-opacity: 0.6;
+  opacity: 0.6;
+  stroke: orange;
+}
+
+.smallMultipleWrapper {
+  margin: 0 -15px;
+	flex-wrap: wrap;
+	display: flex;
+}
+
+.smallMultiple {
+  margin: 0 12px 24px;
+	box-sizing: border-box;
+  width: calc(25% - 24px);
+  height: 240px;
+}
+
+.smallMultiple__title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 0.8rem;
+  fill: white;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.map {
+  height: 90vh;
+  width: 100%;
+  transition: height 200ms;
+  border-top: 1px solid grey;
+  border-bottom: 1px solid grey;
+}
+
+.map--hide {
+  height: 0;
+}
+
+.mapboxgl-popup-anchor-top .mapboxgl-popup-tip, .maplibregl-popup-anchor-top .maplibregl-popup-tip {
+  border-bottom-color: rgba(80, 78, 79, 0.96);
+}
+
+.maplibregl-popup-content {
+  width: 240px;
+  background: rgba(80, 78, 79, 0.96);
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.smallMultiple__tooltip {
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  width: 260px;
+  height: auto;
+  font-size: 0.8rem;
+  padding: 10px;
+  padding: 20px;
+  border-radius: 3px;
+  background: rgba(80, 78, 79, 0.96);
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  z-index: 1;
+  opacity: 0;
+  pointer-events: none;
+  transition: 250ms opacity;
+}
+
+.smallMultiple__tooltip--visible {
+  opacity: 1;
+}
+
+.tooltip__title {
+  text-decoration: none;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: orange;
+  margin: 3px 0 24px;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+.tooltip__subtitle {
+  text-decoration: none;
+  font-size: 0.6rem;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: black;
+
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.tooltip__table {
+  font-family: 'Roboto', sans-serif;
+  color: white;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.tooltip__table td {
+  border-top: 1px solid grey;
+  font-weight: 700;
+  padding: 6px 0 9px;
+}
+
+
+.tooltip__table td:nth-child(1) {
+  font-weight: 300;
+}
+
+.tooltip__table td:nth-child(2) {
+  text-align: right;
+}
+
+@media(max-width: 768px) {
+  .smallMultiple {
+    width: calc(50% - 24px);
+    height: 200px;
+  }
+}

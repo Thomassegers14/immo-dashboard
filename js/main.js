@@ -17,7 +17,7 @@ const x = d3.scaleSqrt()
 const y = d3.scaleLinear()
 
 Promise.all([
-  d3.json('data/test.geojson', d3.autoType),
+  d3.json('data/data.geojson', d3.autoType),
   d3.csv("data/data.csv", d3.autoType)
 ])
   .then(([graphData, scatterData]) => {
@@ -76,10 +76,10 @@ function makeScatterplot(data) {
   svg.append('rect')
     .attr("class", "annotation annotation__area")
     .attr('x', 0)
-    .attr('y', y(400000))
+    .attr('y', y(550000))
     .attr('width', innerWidth)
     .attr("height", (d) => {
-      return y(100000) - y(400000);
+      return y(100000) - y(550000);
     })
 
   svg.append("g")
@@ -160,10 +160,10 @@ function makeSmallMultiples(level, data) {
   svg.append('rect')
     .attr("class", "annotation annotation__area")
     .attr('x', 0)
-    .attr('y', y(400000))
+    .attr('y', y(550000))
     .attr('width', innerWidth)
     .attr("height", (d) => {
-      return y(100000) - y(400000);
+      return y(100000) - y(550000);
     })
 
   svg.append("g")
@@ -324,7 +324,7 @@ function makeMap(mapData) {
             '#51bbd6',
             100,
             'orange',
-            450000,
+            550000,
             'grey'
           ],
           'circle-stroke-width': 1,
@@ -334,7 +334,7 @@ function makeMap(mapData) {
             '#51bbd6',
             100,
             'orange',
-            450000,
+            550000,
             '#c1c1c1'
           ],
           'circle-opacity': 0.5,

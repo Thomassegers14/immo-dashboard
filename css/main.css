@@ -197,7 +197,7 @@ a:link {
 
 @media(max-width: 768px) {
   .smallMultiple {
-    width: calc(50% - 24px);
+    width: calc(100% - 24px);
     height: 200px;
   }
 }
